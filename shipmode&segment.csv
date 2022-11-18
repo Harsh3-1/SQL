@@ -1,0 +1,1820 @@
+"","shipmode","Segment","Region","City","Total_sales","Total_profit","Total_Disc"
+"1","First Class","Consumer","Central","Abilene",1.392,-3.7584,0.8
+"2","First Class","Consumer","Central","Allen",30.264,-13.8837,1
+"3","First Class","Consumer","Central","Arlington",56.512,-2.416,0.4
+"4","First Class","Consumer","Central","Aurora",186.048,67.4424,0.2
+"5","First Class","Consumer","Central","Austin",147.636,-31.3862,2
+"6","First Class","Consumer","Central","Cedar Rapids",278.4,80.736,0
+"7","First Class","Consumer","Central","Chicago",4522.69,186.2106,7.3
+"8","First Class","Consumer","Central","Columbus",199.73,74.8437,0
+"9","First Class","Consumer","Central","Dallas",1537.306,-335.8077,5.34
+"10","First Class","Consumer","Central","Decatur",210.176,-24.8722,1
+"11","First Class","Consumer","Central","Des Plaines",1109.372,-284.7474,2.4
+"12","First Class","Consumer","Central","Detroit",2607.65,680.3038,0
+"13","First Class","Consumer","Central","Eau Claire",435.54,163.9208,0
+"14","First Class","Consumer","Central","Edinburg",85.908,26.9798,1
+"15","First Class","Consumer","Central","El Paso",1390.296,15.8654,0.9
+"16","First Class","Consumer","Central","Fort Worth",6.972,-9.9141,1.4
+"17","First Class","Consumer","Central","Frankfort",76.864,26.9024,0.2
+"18","First Class","Consumer","Central","Freeport",170.572,-131.409,1.6
+"19","First Class","Consumer","Central","Garden City",21.11,7.8221,0
+"20","First Class","Consumer","Central","Garland",28.776,-28.695,1
+"21","First Class","Consumer","Central","Gladstone",164.34,52.5888,0
+"22","First Class","Consumer","Central","Green Bay",468.9,206.316,0
+"23","First Class","Consumer","Central","Harlingen",392.06,4.0569,0.72
+"24","First Class","Consumer","Central","Houston",3518.956,-2192.2661,6.8
+"25","First Class","Consumer","Central","Indianapolis",1107.66,498.5208,0
+"26","First Class","Consumer","Central","Kirkwood",241.34,47.1344,0
+"27","First Class","Consumer","Central","La Porte",142.142,-2.7732,1.4
+"28","First Class","Consumer","Central","Lansing",67,32.16,0
+"29","First Class","Consumer","Central","Madison",2854.48,686.4744,0
+"30","First Class","Consumer","Central","Mansfield",517.405,-81.3065,0.3
+"31","First Class","Consumer","Central","Milwaukee",34.79,10.7849,0
+"32","First Class","Consumer","Central","Minneapolis",2457.73,852.887,0
+"33","First Class","Consumer","Central","Oklahoma City",889.8,266.7636,0
+"34","First Class","Consumer","Central","Omaha",178.37,62.0658,0
+"35","First Class","Consumer","Central","Pasadena",6.928,-11.0848,0.8
+"36","First Class","Consumer","Central","Pearland",470.376,52.9173,0.2
+"37","First Class","Consumer","Central","Peoria",3.98,-6.567,0.8
+"38","First Class","Consumer","Central","Plano",10.368,3.6288,0.2
+"39","First Class","Consumer","Central","Quincy",1.964,-3.2406,0.8
+"40","First Class","Consumer","Central","Rockford",33.568,-53.7088,0.8
+"41","First Class","Consumer","Central","Roseville",4.36,0.1744,0
+"42","First Class","Consumer","Central","Saint Charles",11.56,5.6644,0
+"43","First Class","Consumer","Central","Saint Louis",95.66,26.7374,0
+"44","First Class","Consumer","Central","San Antonio",127.869,-9.1335,0.3
+"45","First Class","Consumer","Central","The Colony",82.408,12.2392,0.4
+"46","First Class","Consumer","Central","Wichita",224.75,62.93,0
+"47","First Class","Consumer","East","Akron",221.024,-55.256,0.2
+"48","First Class","Consumer","East","Andover",435.85,124.1886,0
+"49","First Class","Consumer","East","Baltimore",1257.65,340.6266,0
+"50","First Class","Consumer","East","Bethlehem",1556.694,-990.543,1.4
+"51","First Class","Consumer","East","Buffalo",63.882,10.647,0.1
+"52","First Class","Consumer","East","Cincinnati",88.415,-11.6204,2
+"53","First Class","Consumer","East","Cleveland",56.056,10.6557,0.4
+"54","First Class","Consumer","East","Clifton",336.82,98.5884,0
+"55","First Class","Consumer","East","Clinton",596.861,-26.9833,0.3
+"56","First Class","Consumer","East","Columbus",1714.396,186.5874,1.5
+"57","First Class","Consumer","East","Concord",136.74,43.818,0
+"58","First Class","Consumer","East","Dover",54.28,21.46,0
+"59","First Class","Consumer","East","Dublin",817.842,-392.9032,3.5
+"60","First Class","Consumer","East","East Orange",345.47,160.9451,0
+"61","First Class","Consumer","East","Everett",1936.21,327.2104,0
+"62","First Class","Consumer","East","Fairfield",1134.002,75.2616,0.8
+"63","First Class","Consumer","East","Lakewood",49.378,-3.1946,0.9
+"64","First Class","Consumer","East","Lancaster",600.21,48.9806,1.3
+"65","First Class","Consumer","East","Lawrence",37.68,16.956,0
+"66","First Class","Consumer","East","Lowell",2313.03,669.5049,0
+"67","First Class","Consumer","East","Manchester",5.76,2.8224,0
+"68","First Class","Consumer","East","Meriden",21.4,6.206,0
+"69","First Class","Consumer","East","New York City",20192.594,5004.3392,4
+"70","First Class","Consumer","East","Newark",5240.399,-2216.9527,3.4
+"71","First Class","Consumer","East","Niagara Falls",164.85,47.8065,0
+"72","First Class","Consumer","East","Oceanside",1165.328,46.3184,0.5
+"73","First Class","Consumer","East","Parma",191.34,-4.9704,0.5
+"74","First Class","Consumer","East","Perth Amboy",436.96,160.6086,0
+"75","First Class","Consumer","East","Philadelphia",12104.55,-286.0852,18.8
+"76","First Class","Consumer","East","Providence",126.38,43.9352,0
+"77","First Class","Consumer","East","Rochester",1043.854,279.0206,0.2
+"78","First Class","Consumer","East","Toledo",906.733,144.8995,3.5
+"79","First Class","Consumer","East","Troy",686.194,113.1672,0.5
+"80","First Class","Consumer","East","Waterbury",253.03,43.0947,0
+"81","First Class","Consumer","East","Watertown",90.61,13.9047,0
+"82","First Class","Consumer","East","Wilmington",879.48,280.8252,0
+"83","First Class","Consumer","South","Arlington",419.52,99.2361,0
+"84","First Class","Consumer","South","Atlanta",1366.04,182.998,0
+"85","First Class","Consumer","South","Boca Raton",58.4,-24.316,0.9
+"86","First Class","Consumer","South","Bowling Green",71,27.69,0
+"87","First Class","Consumer","South","Burlington",52.696,4.4919,0.4
+"88","First Class","Consumer","South","Charlotte",284.632,18.4231,0.4
+"89","First Class","Consumer","South","Charlottesville",34.65,10.395,0
+"90","First Class","Consumer","South","Chesapeake",197.72,55.3616,0
+"91","First Class","Consumer","South","Columbus",433.9,116.6041,0
+"92","First Class","Consumer","South","Concord",23.12,2.1006,0.4
+"93","First Class","Consumer","South","Coral Springs",318.96,-14.22,0.4
+"94","First Class","Consumer","South","Delray Beach",9.912,3.2214,0.2
+"95","First Class","Consumer","South","Durham",440.144,30.7824,1.1
+"96","First Class","Consumer","South","Fayetteville",1372.046,411.8608,0.6
+"97","First Class","Consumer","South","Florence",59.48,14.7604,0
+"98","First Class","Consumer","South","Fort Lauderdale",19.104,5.7312,0.2
+"99","First Class","Consumer","South","Goldsboro",34.944,3.0576,0.2
+"100","First Class","Consumer","South","Hialeah",173.985,-3.4041,1.2
+"101","First Class","Consumer","South","Hollywood",243.6,46.819,0.4
+"102","First Class","Consumer","South","Jackson",514.03,179.3924,0
+"103","First Class","Consumer","South","Jacksonville",602.43,92.4205,2.5
+"104","First Class","Consumer","South","Jonesboro",59.98,17.994,0
+"105","First Class","Consumer","South","Knoxville",88.92,14.4495,0.2
+"106","First Class","Consumer","South","Lafayette",3534.19,457.0099,0
+"107","First Class","Consumer","South","Little Rock",678.87,280.8057,0
+"108","First Class","Consumer","South","Louisville",1428.65,401.2194,0
+"109","First Class","Consumer","South","Memphis",416.474,-151.5908,1.5
+"110","First Class","Consumer","South","Miami",303.28,104.5699,0.8
+"111","First Class","Consumer","South","Mobile",8.96,2.7776,0
+"112","First Class","Consumer","South","Monroe",124.676,46.3062,0.2
+"113","First Class","Consumer","South","Murray",191.82,74.8098,0
+"114","First Class","Consumer","South","Nashville",15.552,5.4432,0.2
+"115","First Class","Consumer","South","Pensacola",2.214,-1.476,0.7
+"116","First Class","Consumer","South","Richmond",234.24,67.5304,0
+"117","First Class","Consumer","South","Roswell",149.95,65.978,0
+"118","First Class","Consumer","South","Saint Petersburg",31.984,1.999,0.2
+"119","First Class","Consumer","South","Salem",701.96,168.4704,0
+"120","First Class","Consumer","South","Springfield",1258.66,256.7062,0
+"121","First Class","Consumer","South","Suffolk",196.62,96.3438,0
+"122","First Class","Consumer","South","Tallahassee",695.7,-27.828,0.5
+"123","First Class","Consumer","South","Tampa",11.672,-0.7295,0.2
+"124","First Class","Consumer","South","Virginia Beach",1337.84,228.0812,0
+"125","First Class","Consumer","South","Waynesboro",2298.9,397.9448,0
+"126","First Class","Consumer","South","Wilmington",14.098,0.8896,0.9
+"127","First Class","Consumer","South","Woodstock",286.65,104.8788,0
+"128","First Class","Consumer","West","Aurora",125.944,15.743,0.2
+"129","First Class","Consumer","West","Bakersfield",304.046,74.0986,0.4
+"130","First Class","Consumer","West","Boise",89.97,37.7874,0
+"131","First Class","Consumer","West","Colorado Springs",11.328,2.5488,0.2
+"132","First Class","Consumer","West","Commerce City",146.352,-32.9292,0.2
+"133","First Class","Consumer","West","Denver",310.118,-130.5137,0.9
+"134","First Class","Consumer","West","Draper",151.72,58.0272,0.2
+"135","First Class","Consumer","West","Edmonds",2112.422,455.758,0.2
+"136","First Class","Consumer","West","Encinitas",305.496,9.8214,0.4
+"137","First Class","Consumer","West","Fresno",1069.132,188.8396,0.6
+"138","First Class","Consumer","West","Greeley",30.352,10.3614,0.4
+"139","First Class","Consumer","West","Hillsboro",64.072,-1.6072,0.4
+"140","First Class","Consumer","West","Inglewood",218.81,52.9647,0
+"141","First Class","Consumer","West","Lake Forest",597.86,171.7944,0
+"142","First Class","Consumer","West","Lancaster",10.9,3.597,0
+"143","First Class","Consumer","West","Longmont",749.488,41.0352,0.4
+"144","First Class","Consumer","West","Los Angeles",12634.5,2534.4464,2.95
+"145","First Class","Consumer","West","Louisville",317.535,-96.3077,1.8
+"146","First Class","Consumer","West","Mesa",945.165,-169.9458,0.7
+"147","First Class","Consumer","West","Mission Viejo",290.666,3.4196,0.15
+"148","First Class","Consumer","West","Moreno Valley",87.72,22.0488,0
+"149","First Class","Consumer","West","Oakland",1529.61,207.5365,0.6
+"150","First Class","Consumer","West","Pasadena",875.248,-20.5698,0.6
+"151","First Class","Consumer","West","Phoenix",56.817,-41.5308,1.4
+"152","First Class","Consumer","West","Pocatello",814.526,66.0072,0.2
+"153","First Class","Consumer","West","Pomona",99.98,34.993,0
+"154","First Class","Consumer","West","Portland",1108.805,-165.838,2
+"155","First Class","Consumer","West","Redondo Beach",112.12,51.848,0.2
+"156","First Class","Consumer","West","Riverside",3.984,1.3944,0.2
+"157","First Class","Consumer","West","Roseville",8.32,2.808,0.2
+"158","First Class","Consumer","West","Salem",7.88,1.773,0.2
+"159","First Class","Consumer","West","San Diego",818.412,131.0294,0.4
+"160","First Class","Consumer","West","San Francisco",7444.781,1059.1722,2.95
+"161","First Class","Consumer","West","San Jose",578.914,165.962,0.6
+"162","First Class","Consumer","West","San Mateo",75.18,35.3346,0
+"163","First Class","Consumer","West","Santa Clara",79.792,22.7292,0.2
+"164","First Class","Consumer","West","Santa Maria",115.44,30.0144,0
+"165","First Class","Consumer","West","Scottsdale",390.075,-289.0404,2.7
+"166","First Class","Consumer","West","Seattle",17746.1,7456.103,1.4
+"167","First Class","Consumer","West","Temecula",808.666,101.8869,0.4
+"168","First Class","Consumer","West","Thousand Oaks",15.984,1.1988,0.2
+"169","First Class","Consumer","West","Tucson",596.664,69.8868,1
+"170","First Class","Consumer","West","Westminster",31.968,2.3976,0.2
+"171","First Class","Corporate","Central","Arlington",697.49,-79.4976,3.1
+"172","First Class","Corporate","Central","Aurora",7.992,2.5974,0.2
+"173","First Class","Corporate","Central","Bedford",205.296,3.8082,1.4
+"174","First Class","Corporate","Central","Bloomington",54.336,5.4336,0.2
+"175","First Class","Corporate","Central","Brownsville",247.784,24.4867,0.4
+"176","First Class","Corporate","Central","Chicago",1106.568,-316.8577,4.2
+"177","First Class","Corporate","Central","Columbus",34.02,16.6698,0
+"178","First Class","Corporate","Central","Conroe",111.672,6.9795,0.2
+"179","First Class","Corporate","Central","Coppell",95.84,34.742,0.2
+"180","First Class","Corporate","Central","Dallas",1394.513,101.7058,2.3
+"181","First Class","Corporate","Central","Decatur",101.728,7.6296,0.4
+"182","First Class","Corporate","Central","Deer Park",6.924,-10.386,0.8
+"183","First Class","Corporate","Central","Detroit",3270.962,701.094,0.1
+"184","First Class","Corporate","Central","Eagan",63.44,27.9776,0
+"185","First Class","Corporate","Central","Fremont",79.96,22.3888,0
+"186","First Class","Corporate","Central","Haltom City",262.72,49.8082,0.6
+"187","First Class","Corporate","Central","Houston",2648.3404,98.9604,6.12
+"188","First Class","Corporate","Central","Huntsville",569.902,14.5152,0.5
+"189","First Class","Corporate","Central","Indianapolis",1350.42,79.1172,0
+"190","First Class","Corporate","Central","Lincoln Park",167.292,29.7408,0.1
+"191","First Class","Corporate","Central","Lubbock",9.248,3.3524,0.2
+"192","First Class","Corporate","Central","Milwaukee",242.51,100.1833,0
+"193","First Class","Corporate","Central","Odessa",606.214,-40.8338,0.5
+"194","First Class","Corporate","Central","Omaha",68.71,21.5198,0
+"195","First Class","Corporate","Central","Overland Park",186.95,85.298,0
+"196","First Class","Corporate","Central","Palatine",116.312,23.2624,0.2
+"197","First Class","Corporate","Central","Pasadena",1205.436,21.9756,0.7
+"198","First Class","Corporate","Central","Quincy",177.176,45.957,1.4
+"199","First Class","Corporate","Central","Rapid City",152.64,44.7684,0
+"200","First Class","Corporate","Central","Richardson",1288.464,-24.4893,0.8
+"201","First Class","Corporate","Central","Richmond",22.48,10.3408,0
+"202","First Class","Corporate","Central","Rockford",442.372,-729.9138,0.8
+"203","First Class","Corporate","Central","San Antonio",1223.292,-10.7817,0.9
+"204","First Class","Corporate","Central","Skokie",23.888,-15.52,1.8
+"205","First Class","Corporate","Central","Tinley Park",22.288,-8.9152,0.6
+"206","First Class","Corporate","Central","Tulsa",69.93,0.6993,0
+"207","First Class","Corporate","East","Akron",85.056,28.7064,0.2
+"208","First Class","Corporate","East","Altoona",20.451,-1.1835,0.9
+"209","First Class","Corporate","East","Baltimore",559.17,116.6463,0
+"210","First Class","Corporate","East","Bristol",238.11,85.6753,0
+"211","First Class","Corporate","East","Chester",199.491,-49.2546,0.9
+"212","First Class","Corporate","East","Cincinnati",858.42,57.711,1.1
+"213","First Class","Corporate","East","Columbus",543.5,-68.9273,2.4
+"214","First Class","Corporate","East","Cranston",1212.74,-43.0036,0.6
+"215","First Class","Corporate","East","Franklin",81.94,20.485,0
+"216","First Class","Corporate","East","Hempstead",7.98,3.9102,0
+"217","First Class","Corporate","East","Lakewood",92.768,29.8026,0.2
+"218","First Class","Corporate","East","Lawrence",14.88,3.72,0
+"219","First Class","Corporate","East","Long Beach",1448.82,209.274,0.1
+"220","First Class","Corporate","East","Mason",94.264,-4.2352,1.6
+"221","First Class","Corporate","East","Middletown",48.16,22.1536,0
+"222","First Class","Corporate","East","Milford",694.67,201.7916,0
+"223","First Class","Corporate","East","New York City",6362.542,2075.3386,1.3
+"224","First Class","Corporate","East","Newark",188.94,30.8595,0
+"225","First Class","Corporate","East","Norwich",11.34,5.5566,0
+"226","First Class","Corporate","East","Oceanside",25.952,10.8096,0.2
+"227","First Class","Corporate","East","Paterson",6.54,2.1582,0
+"228","First Class","Corporate","East","Philadelphia",2314.745,140.416,6.3
+"229","First Class","Corporate","East","Plainfield",27.21,10.5825,0
+"230","First Class","Corporate","East","Providence",69.98,4.8986,0
+"231","First Class","Corporate","East","Rochester",167.31,80.3088,0
+"232","First Class","Corporate","East","Springfield",807.519,-931.6475,2.5
+"233","First Class","Corporate","East","Warwick",111.96,54.8604,0
+"234","First Class","Corporate","East","Watertown",1358.484,400.0254,0.3
+"235","First Class","Corporate","East","Wilmington",1136.896,260.1058,0.3
+"236","First Class","Corporate","East","Woonsocket",91.14,44.6628,0
+"237","First Class","Corporate","South","Arlington",135.17,44.5298,0
+"238","First Class","Corporate","South","Athens",12.78,5.2398,0
+"239","First Class","Corporate","South","Atlanta",9.96,4.8804,0
+"240","First Class","Corporate","South","Burlington",9.552,1.5522,0.2
+"241","First Class","Corporate","South","Chesapeake",321.56,91.2541,0
+"242","First Class","Corporate","South","Columbus",668.54,178.3744,0
+"243","First Class","Corporate","South","Decatur",224.9,64.2384,0
+"244","First Class","Corporate","South","Florence",127.95,21.7515,0
+"245","First Class","Corporate","South","Greensboro",1948.404,-64.9653,0.8
+"246","First Class","Corporate","South","Hoover",503.22,11.1036,0
+"247","First Class","Corporate","South","Jacksonville",1397.966,8.3332,3.3
+"248","First Class","Corporate","South","Knoxville",426.942,-172.4535,0.6
+"249","First Class","Corporate","South","Lakeland",3756.506,-60.9529,4.5
+"250","First Class","Corporate","South","Louisville",234.2,63.3048,0
+"251","First Class","Corporate","South","Macon",116.85,43.0551,0
+"252","First Class","Corporate","South","Miami",830.538,77.6994,1.1
+"253","First Class","Corporate","South","Mobile",3236.41,1556.6952,0
+"254","First Class","Corporate","South","Monroe",87.28,41.0216,0
+"255","First Class","Corporate","South","Murfreesboro",14.352,5.2026,0.2
+"256","First Class","Corporate","South","Nashville",97.424,10.9602,0.2
+"257","First Class","Corporate","South","Palm Coast",242.546,14.4922,1.1
+"258","First Class","Corporate","South","Raleigh",1263.5,172.793,1.7
+"259","First Class","Corporate","South","Richmond",13.76,6.3296,0
+"260","First Class","Corporate","South","Sandy Springs",524.85,166.2205,0
+"261","First Class","Corporate","South","Smyrna",670.001,59.0374,1.1
+"262","First Class","Corporate","South","Springfield",2672.08,820.605,0
+"263","First Class","Corporate","South","Suffolk",1242.47,230.1228,0
+"264","First Class","Corporate","South","Tampa",2.896,0.9774,0.2
+"265","First Class","Corporate","West","Anaheim",1336.352,272.583,0.4
+"266","First Class","Corporate","West","Antioch",19.44,9.3312,0
+"267","First Class","Corporate","West","Aurora",572.296,69.3463,1
+"268","First Class","Corporate","West","Colorado Springs",855.272,20.8692,1.5
+"269","First Class","Corporate","West","Denver",227.658,-180.2625,1.1
+"270","First Class","Corporate","West","Fairfield",1435.96,106.9836,0.2
+"271","First Class","Corporate","West","Farmington",159.99,54.3966,0
+"272","First Class","Corporate","West","Helena",39.9,10.374,0
+"273","First Class","Corporate","West","Henderson",1888.058,393.044,0.2
+"274","First Class","Corporate","West","Inglewood",14.8,5.612,0
+"275","First Class","Corporate","West","La Quinta",46.32,18.0648,0
+"276","First Class","Corporate","West","Long Beach",340.704,-34.0704,0.2
+"277","First Class","Corporate","West","Los Angeles",9281.7845,1251.4895,3.3
+"278","First Class","Corporate","West","Loveland",16.752,6.0726,0.4
+"279","First Class","Corporate","West","North Las Vegas",58.58,19.3314,0
+"280","First Class","Corporate","West","Phoenix",243.195,-345.8067,1.3
+"281","First Class","Corporate","West","Pueblo",3.408,0.8946,0.2
+"282","First Class","Corporate","West","Redmond",88.074,-58.716,0.7
+"283","First Class","Corporate","West","Riverside",602.43,185.3866,0
+"284","First Class","Corporate","West","San Diego",2239.254,228.8149,0.8
+"285","First Class","Corporate","West","San Francisco",14119.286,2440.8416,2.8
+"286","First Class","Corporate","West","San Jose",244.78,95.839,0
+"287","First Class","Corporate","West","Santa Barbara",393.186,-39.4164,0.2
+"288","First Class","Corporate","West","Seattle",9068.81,3214.0997,0.8
+"289","First Class","Corporate","West","Spokane",837.6,62.82,0.2
+"290","First Class","Corporate","West","Springfield",771.928,93.2492,1.2
+"291","First Class","Corporate","West","Stockton",273.92,99.296,0.2
+"292","First Class","Corporate","West","Sunnyvale",215.976,-2.6997,0.2
+"293","First Class","Corporate","West","Tempe",598.144,133.7632,1.4
+"294","First Class","Corporate","West","Tucson",1855.918,-218.4852,2.2
+"295","First Class","Home Office","Central","Ann Arbor",152.8,76.4,0
+"296","First Class","Home Office","Central","Appleton",21.56,10.3488,0
+"297","First Class","Home Office","Central","Aurora",796.425,-525.6405,0.5
+"298","First Class","Home Office","Central","Broken Arrow",821.94,213.7044,0
+"299","First Class","Home Office","Central","Brownsville",714.966,192.3929,0.7
+"300","First Class","Home Office","Central","Chicago",1581.028,-86.5813,2
+"301","First Class","Home Office","Central","Columbus",40.88,10.6288,0
+"302","First Class","Home Office","Central","Dallas",412.964,31.6312,0.5
+"303","First Class","Home Office","Central","Detroit",664.28,171.4416,0
+"304","First Class","Home Office","Central","Franklin",3.6,1.728,0
+"305","First Class","Home Office","Central","Garland",8.544,-7.476,0.6
+"306","First Class","Home Office","Central","Greenwood",240.15,115.5072,0
+"307","First Class","Home Office","Central","Houston",2091.231,-106.0618,5.94
+"308","First Class","Home Office","Central","Kenosha",399.95,143.982,0
+"309","First Class","Home Office","Central","Lakeville",155.88,38.97,0
+"310","First Class","Home Office","Central","Maple Grove",146.89,53.8191,0
+"311","First Class","Home Office","Central","Midland",3999.702,1947.981,0.1
+"312","First Class","Home Office","Central","Minneapolis",15.28,7.4872,0
+"313","First Class","Home Office","Central","Omaha",563.94,112.788,0
+"314","First Class","Home Office","Central","Peoria",359.058,-35.9058,0.3
+"315","First Class","Home Office","Central","Springfield",8.76,4.2048,0
+"316","First Class","Home Office","East","Akron",17.184,6.2292,0.2
+"317","First Class","Home Office","East","Chester",570.492,113.4179,2.4
+"318","First Class","Home Office","East","Cleveland",1245.394,-30.8251,1.9
+"319","First Class","Home Office","East","Franklin",177.17,50.7368,0
+"320","First Class","Home Office","East","Lakewood",76.776,-53.7432,0.7
+"321","First Class","Home Office","East","Lancaster",91.488,15.5892,0.4
+"322","First Class","Home Office","East","Marion",7.712,1.7352,0.2
+"323","First Class","Home Office","East","Meriden",11.12,2.8912,0
+"324","First Class","Home Office","East","New Rochelle",69.99,30.0957,0
+"325","First Class","Home Office","East","New York City",28155.502,8441.1738,1.6
+"326","First Class","Home Office","East","Newark",807.54,271.4153,0
+"327","First Class","Home Office","East","Philadelphia",2131.62,-894.1289,3.7
+"328","First Class","Home Office","East","Providence",2545.12,757.561,0
+"329","First Class","Home Office","East","Shelton",73.33,21.4053,0
+"330","First Class","Home Office","East","Troy",1463.685,-137.6161,2.7
+"331","First Class","Home Office","South","Arlington",10.44,4.8024,0
+"332","First Class","Home Office","South","Columbus",893.58,230.051,0
+"333","First Class","Home Office","South","Harrisonburg",2884.37,623.1933,0
+"334","First Class","Home Office","South","Hialeah",625.512,-310.3075,1.3
+"335","First Class","Home Office","South","Knoxville",2437.672,-1034.8361,2.6
+"336","First Class","Home Office","South","Miami",3.744,-2.6208,0.7
+"337","First Class","Home Office","South","Nashville",109.968,12.048,0.4
+"338","First Class","Home Office","South","Richmond",594.72,73.594,0
+"339","First Class","Home Office","South","Springfield",177.78,19.0695,0
+"340","First Class","Home Office","West","Apple Valley",56.136,21.3324,0.2
+"341","First Class","Home Office","West","Aurora",535.264,-52.2346,1.7
+"342","First Class","Home Office","West","Colorado Springs",40.635,-32.508,0.7
+"343","First Class","Home Office","West","Denver",63.824,13.5626,0.2
+"344","First Class","Home Office","West","Fort Collins",112.68,15.0354,0.4
+"345","First Class","Home Office","West","Lehi",1499.95,449.985,0
+"346","First Class","Home Office","West","Long Beach",80.28,36.9288,0
+"347","First Class","Home Office","West","Los Angeles",14854.555,2100.4887,2.3
+"348","First Class","Home Office","West","Mesa",85.92,28.7016,0.4
+"349","First Class","Home Office","West","Murray",48.4,23.232,0
+"350","First Class","Home Office","West","North Las Vegas",14.56,5.5328,0
+"351","First Class","Home Office","West","Oakland",454.272,-73.8192,0.2
+"352","First Class","Home Office","West","Peoria",668.744,2.87819999999999,1
+"353","First Class","Home Office","West","Phoenix",7.857,-6.0237,0.7
+"354","First Class","Home Office","West","Pico Rivera",145.9,62.737,0
+"355","First Class","Home Office","West","Portland",403.92,25.245,0.2
+"356","First Class","Home Office","West","Pueblo",801.55,-961.5321,2.3
+"357","First Class","Home Office","West","Salem",612.642,-298.1464,2.4
+"358","First Class","Home Office","West","San Diego",3356.254,208.3976,0.8
+"359","First Class","Home Office","West","San Francisco",1776.988,494.0445,1
+"360","First Class","Home Office","West","San Jose",13.848,5.193,0.2
+"361","First Class","Home Office","West","Santa Ana",56.3,15.764,0
+"362","First Class","Home Office","West","Scottsdale",361.104,33.0048,0.4
+"363","First Class","Home Office","West","Seattle",1967.668,431.2438,1.6
+"364","Same Day","Consumer","Central","Amarillo",2825.174,-277.1688,0.9
+"365","Same Day","Consumer","Central","Aurora",608.552,-77.3036,1.1
+"366","Same Day","Consumer","Central","Austin",106.104,23.9727,0.4
+"367","Same Day","Consumer","Central","Bolingbrook",59.848,-4.898,1.4
+"368","Same Day","Consumer","Central","Chicago",363.776,30.5631,1.2
+"369","Same Day","Consumer","Central","Dallas",483.294,-158.2878,2.5
+"370","Same Day","Consumer","Central","Des Moines",6.48,3.1104,0
+"371","Same Day","Consumer","Central","Detroit",1731.87,387.4167,0
+"372","Same Day","Consumer","Central","El Paso",36.544,11.8768,0.2
+"373","Same Day","Consumer","Central","Fort Worth",477.142,-87.1517,0.9
+"374","Same Day","Consumer","Central","Greenwood",1424.9,356.225,0
+"375","Same Day","Consumer","Central","Houston",1491.878,-21.1556,6.2
+"376","Same Day","Consumer","Central","Lansing",1273.606,326.2746,0.1
+"377","Same Day","Consumer","Central","Laredo",11.84,4.44,0.2
+"378","Same Day","Consumer","Central","Lawton",582.07,78.0919,0
+"379","Same Day","Consumer","Central","Lubbock",25.16,-11.322,0.6
+"380","Same Day","Consumer","Central","Madison",10.07,4.5338,0
+"381","Same Day","Consumer","Central","Milwaukee",25.06,11.7782,0
+"382","Same Day","Consumer","Central","Mount Pleasant",17.14,6.1704,0
+"383","Same Day","Consumer","Central","Norman",1287.45,244.6155,0
+"384","Same Day","Consumer","Central","Oklahoma City",38.16,19.08,0
+"385","Same Day","Consumer","Central","Portage",16.28,6.512,0
+"386","Same Day","Consumer","Central","Rochester",375.71,131.8881,0
+"387","Same Day","Consumer","Central","Saint Charles",248.82,84.4272,0
+"388","Same Day","Consumer","Central","San Antonio",49.632,4.9632,0.2
+"389","Same Day","Consumer","Central","Skokie",457.176,-299.6526,1.6
+"390","Same Day","Consumer","Central","The Colony",59.752,19.4194,0.2
+"391","Same Day","Consumer","Central","Tulsa",28.85,14.425,0
+"392","Same Day","Consumer","East","Cincinnati",79.384,29.769,0.2
+"393","Same Day","Consumer","East","Cleveland",1110.344,104.2335,1
+"394","Same Day","Consumer","East","Columbia",2073.35,640.1885,0
+"395","Same Day","Consumer","East","Columbus",772.071,-20.4912,5.4
+"396","Same Day","Consumer","East","Fairfield",619.447,113.2907,0.3
+"397","Same Day","Consumer","East","Freeport",122.622,16.458,0.1
+"398","Same Day","Consumer","East","Long Beach",1214.85,352.3065,0
+"399","Same Day","Consumer","East","Marion",594.002,-108.6522,0.9
+"400","Same Day","Consumer","East","Middletown",27.46,9.8856,0
+"401","Same Day","Consumer","East","Milford",67.32,29.3724,0
+"402","Same Day","Consumer","East","New York City",12650.015,2723.3366,2.3
+"403","Same Day","Consumer","East","Newark",162.52,78.335,0
+"404","Same Day","Consumer","East","Orange",70.95,18.447,0
+"405","Same Day","Consumer","East","Philadelphia",65.55,20.0973,2
+"406","Same Day","Consumer","East","Springfield",53.344,-27.0848,0.9
+"407","Same Day","Consumer","East","Utica",534.57,145.1904,0.4
+"408","Same Day","Consumer","East","Wheeling",673.344,-76.9536,0.3
+"409","Same Day","Consumer","South","Apopka",193.152,34.6984,0.6
+"410","Same Day","Consumer","South","Asheville",1363.96,85.2475,0.2
+"411","Same Day","Consumer","South","Athens",14.73,7.2177,0
+"412","Same Day","Consumer","South","Atlanta",195.64,91.9508,0
+"413","Same Day","Consumer","South","Boynton Beach",314.393,25.1082,1.3
+"414","Same Day","Consumer","South","Charlotte",841.301,62.6851,1.3
+"415","Same Day","Consumer","South","Columbia",520.964,46.4718,0.9
+"416","Same Day","Consumer","South","Fayetteville",10.272,1.1556,0.2
+"417","Same Day","Consumer","South","Hampton",149.9,40.473,0
+"418","Same Day","Consumer","South","Hickory",36.192,2.7144,0.2
+"419","Same Day","Consumer","South","Homestead",85.224,7.4571,0.2
+"420","Same Day","Consumer","South","Huntsville",29,7.25,0
+"421","Same Day","Consumer","South","Jacksonville",925.112,74.5601,1.4
+"422","Same Day","Consumer","South","Kenner",89.32,19.7976,0
+"423","Same Day","Consumer","South","Lakeland",78.456,-9.9809,0.6
+"424","Same Day","Consumer","South","Louisville",10.74,5.2626,0
+"425","Same Day","Consumer","South","Miami",239.24,23.924,0.2
+"426","Same Day","Consumer","South","Plantation",598.352,55.747,0.4
+"427","Same Day","Consumer","South","Raleigh",863.928,86.3928,0.2
+"428","Same Day","Consumer","South","Rock Hill",11.85,3.792,0
+"429","Same Day","Consumer","South","Springfield",107.83,24.6018,0
+"430","Same Day","Consumer","South","Tampa",1142.165,89.4226,1.1
+"431","Same Day","Consumer","South","Wilmington",310.688,108.7408,0.2
+"432","Same Day","Consumer","West","Anaheim",1937.924,272.3826,1.2
+"433","Same Day","Consumer","West","Chula Vista",192.8,55.912,0
+"434","Same Day","Consumer","West","Concord",61.12,22.156,0.2
+"435","Same Day","Consumer","West","Glendale",986.214,102.2056,1.1
+"436","Same Day","Consumer","West","Los Angeles",882.29,126.548,0.6
+"437","Same Day","Consumer","West","Murray",97.918,13.8308,0.2
+"438","Same Day","Consumer","West","Oceanside",204.6,53.196,0
+"439","Same Day","Consumer","West","Peoria",67.86,-45.24,0.7
+"440","Same Day","Consumer","West","Phoenix",8.226,-6.0324,0.7
+"441","Same Day","Consumer","West","Pomona",31.56,10.4148,0
+"442","Same Day","Consumer","West","Pueblo",36.252,-24.9072,1.4
+"443","Same Day","Consumer","West","Redlands",2686.751,394.2459,0.75
+"444","Same Day","Consumer","West","San Diego",166.44,79.8912,0
+"445","Same Day","Consumer","West","San Francisco",4236.204,1359.8861,1
+"446","Same Day","Consumer","West","Santa Ana",1564.25,595.4066,0.2
+"447","Same Day","Consumer","West","Seattle",3574.97,968.8718,1.2
+"448","Same Day","Consumer","West","Spokane",263.78,32.8302,0
+"449","Same Day","Consumer","West","Tempe",3.366,-2.244,0.7
+"450","Same Day","Consumer","West","Thornton",447.944,89.5888,0.2
+"451","Same Day","Corporate","Central","Beaumont",12.768,0.9576,0.2
+"452","Same Day","Corporate","Central","Detroit",542.178,163.9204,0.1
+"453","Same Day","Corporate","Central","Fremont",750.68,37.534,0
+"454","Same Day","Corporate","Central","Garden City",33.29,7.9896,0
+"455","Same Day","Corporate","Central","Mesquite",0.876,-1.4016,0.8
+"456","Same Day","Corporate","Central","Milwaukee",143.48,41.7572,0
+"457","Same Day","Corporate","Central","San Antonio",210.392,-336.6272,0.8
+"458","Same Day","Corporate","Central","Trenton",41.28,19.8144,0
+"459","Same Day","Corporate","Central","Waco",0.556,-0.9452,0.8
+"460","Same Day","Corporate","East","Clinton",89.82,25.1496,0
+"461","Same Day","Corporate","East","Columbia",2017.32,438.408,0
+"462","Same Day","Corporate","East","Columbus",2913.664,-508.4801,2
+"463","Same Day","Corporate","East","Fairfield",795.408,59.6556,0.2
+"464","Same Day","Corporate","East","Franklin",40.29,10.4754,0
+"465","Same Day","Corporate","East","Lawrence",829.83,241.1094,0
+"466","Same Day","Corporate","East","Lorain",402.645,62.4591,0.9
+"467","Same Day","Corporate","East","Manchester",1179.27,311.3476,0
+"468","Same Day","Corporate","East","New York City",7828.317,2971.1877,0.2
+"469","Same Day","Corporate","East","Newark",744.338,-118.5285,2.3
+"470","Same Day","Corporate","East","Philadelphia",1887.639,-50.5716,2.2
+"471","Same Day","Corporate","East","Rochester",756.8,75.68,0
+"472","Same Day","Corporate","South","Burlington",8797.444,-4024.847,1.1
+"473","Same Day","Corporate","South","Coral Springs",111.904,8.0564,0.8
+"474","Same Day","Corporate","South","Henderson",158.71,50.7928,0
+"475","Same Day","Corporate","South","Southaven",839.25,336.785,0
+"476","Same Day","Corporate","West","Albuquerque",255.85,112.574,0
+"477","Same Day","Corporate","West","Anaheim",1293.488,80.843,0.2
+"478","Same Day","Corporate","West","Billings",8.288,2.6936,0.2
+"479","Same Day","Corporate","West","Chandler",83.88,29.358,0.2
+"480","Same Day","Corporate","West","Denver",582.336,-29.1168,0.2
+"481","Same Day","Corporate","West","Huntington Beach",2399.96,839.986,0.2
+"482","Same Day","Corporate","West","Los Angeles",1279.438,121.586,1.4
+"483","Same Day","Corporate","West","Riverside",1098.648,110.985,0.2
+"484","Same Day","Corporate","West","San Diego",926.44,-21.1696,0.2
+"485","Same Day","Corporate","West","San Francisco",5281.158,550.8353,1
+"486","Same Day","Corporate","West","Seattle",598.16,149.1876,0
+"487","Same Day","Corporate","West","Yuma",185.528,48.7011,0.2
+"488","Same Day","Home Office","Central","Aurora",811.434,-241.5006,2.1
+"489","Same Day","Home Office","Central","Bryan",65.84,-34.463,2.6
+"490","Same Day","Home Office","Central","Chicago",1358.866,344.8139,1.6
+"491","Same Day","Home Office","Central","Dallas",10.272,3.21,0.2
+"492","Same Day","Home Office","Central","Fremont",15.92,7.0048,0
+"493","Same Day","Home Office","Central","Lawrence",10.74,5.1552,0
+"494","Same Day","Home Office","Central","Muskogee",1702.03,437.2856,0
+"495","Same Day","Home Office","Central","Omaha",34.5,15.525,0
+"496","Same Day","Home Office","Central","Roseville",547.97,229.0057,0
+"497","Same Day","Home Office","East","Cleveland",20.736,7.2576,0.2
+"498","Same Day","Home Office","East","Mentor",693.13,-123.2742,1.5
+"499","Same Day","Home Office","East","New York City",1446.164,425.0865,1
+"500","Same Day","Home Office","East","Philadelphia",41.082,8.0832,1.1
+"501","Same Day","Home Office","East","Quincy",85.3,14.501,0
+"502","Same Day","Home Office","East","Toledo",663.936,82.992,0.2
+"503","Same Day","Home Office","South","Jacksonville",255.968,31.996,0.2
+"504","Same Day","Home Office","South","Jonesboro",117.62,58.4284,0
+"505","Same Day","Home Office","South","Marietta",259.29,78.2361,0
+"506","Same Day","Home Office","South","Monroe",7.968,2.6892,0.2
+"507","Same Day","Home Office","South","Newport News",261.1,112.123,0
+"508","Same Day","Home Office","South","Smyrna",2075.51,688.7151,0
+"509","Same Day","Home Office","West","Glendale",972.08,76.7596,1.2
+"510","Same Day","Home Office","West","Long Beach",2089.412,273.873,0.2
+"511","Same Day","Home Office","West","Los Angeles",1388.309,273.9028,0.35
+"512","Same Day","Home Office","West","Louisville",230.088,14.3805,0.4
+"513","Same Day","Home Office","West","Manteca",137.632,21.2518,0.2
+"514","Same Day","Home Office","West","Oxnard",1215.72,258.4088,0
+"515","Same Day","Home Office","West","Reno",475.944,59.493,0.2
+"516","Same Day","Home Office","West","Riverside",7.8,2.106,0
+"517","Same Day","Home Office","West","San Francisco",697.286,111.9638,0.35
+"518","Same Day","Home Office","West","Seattle",4641.804,1016.2003,1
+"519","Same Day","Home Office","West","Tucson",259.136,-25.9136,0.2
+"520","Same Day","Home Office","West","Yuma",44.856,-35.8848,0.7
+"521","Second Class","Consumer","Central","Aberdeen",25.5,6.63,0
+"522","Second Class","Consumer","Central","Aurora",268.935,-209.7693,0.5
+"523","Second Class","Consumer","Central","Beaumont",459.348,58.1588,1.8
+"524","Second Class","Consumer","Central","Bloomington",134.85,37.758,0
+"525","Second Class","Consumer","Central","Brownsville",1.744,-0.3488,0.2
+"526","Second Class","Consumer","Central","Carrollton",1538.64,52.9597,1.4
+"527","Second Class","Consumer","Central","Chicago",5043.393,-1408.229,14.1
+"528","Second Class","Consumer","Central","College Station",57.984,-64.352,1
+"529","Second Class","Consumer","Central","Columbia",535.27,106.7911,0
+"530","Second Class","Consumer","Central","Columbus",2.91,1.3677,0
+"531","Second Class","Consumer","Central","Dallas",2695.388,-506.7366,5.64
+"532","Second Class","Consumer","Central","Dearborn Heights",770.61,50.8443,0
+"533","Second Class","Consumer","Central","Decatur",479.952,89.991,0.2
+"534","Second Class","Consumer","Central","Detroit",1300.94,426.3641,0
+"535","Second Class","Consumer","Central","El Paso",1322.75,-151.3382,1.5
+"536","Second Class","Consumer","Central","Elkhart",171.43,16.6721,0
+"537","Second Class","Consumer","Central","Evanston",270.271,-69.2049,0.5
+"538","Second Class","Consumer","Central","Fargo",891.53,216.5907,0
+"539","Second Class","Consumer","Central","Fremont",33.9,15.594,0
+"540","Second Class","Consumer","Central","Frisco",30.336,-17.4432,0.6
+"541","Second Class","Consumer","Central","Glenview",158.376,13.8579,0.2
+"542","Second Class","Consumer","Central","Grand Island",15.96,7.98,0
+"543","Second Class","Consumer","Central","Holland",7.5,3.6,0
+"544","Second Class","Consumer","Central","Houston",7470.3036,-1235.6933,13.92
+"545","Second Class","Consumer","Central","Indianapolis",215.18,19.7204,0
+"546","Second Class","Consumer","Central","Irving",219.84,79.692,0.2
+"547","Second Class","Consumer","Central","Jackson",5821.75,2610.8569,0
+"548","Second Class","Consumer","Central","Keller",6,2.1,0.2
+"549","Second Class","Consumer","Central","La Crosse",56.82,28.41,0
+"550","Second Class","Consumer","Central","Lafayette",81.4,21.164,0
+"551","Second Class","Consumer","Central","Lawrence",663.45,253.9112,0
+"552","Second Class","Consumer","Central","League City",321.202,-26.7895,0.5
+"553","Second Class","Consumer","Central","Marion",136.2,59.8757,0
+"554","Second Class","Consumer","Central","Minneapolis",99.26,38.9066,0
+"555","Second Class","Consumer","Central","Naperville",850.267,-92.6059,1.3
+"556","Second Class","Consumer","Central","Noblesville",412.24,112.2084,0
+"557","Second Class","Consumer","Central","Richmond",11.36,5.5664,0
+"558","Second Class","Consumer","Central","Rochester",23.92,11.7208,0
+"559","Second Class","Consumer","Central","Romeoville",8.952,-14.7708,0.8
+"560","Second Class","Consumer","Central","Saint Charles",30.344,-31.8612,0.6
+"561","Second Class","Consumer","Central","Saint Louis",111.79,43.5981,0
+"562","Second Class","Consumer","Central","San Angelo",345.324,-49.83,1.4
+"563","Second Class","Consumer","Central","San Antonio",1447.952,-66.9319,2.2
+"564","Second Class","Consumer","Central","South Bend",1238.33,279.5512,0
+"565","Second Class","Consumer","Central","Springfield",931.52,162.2059,0
+"566","Second Class","Consumer","Central","Taylor",301.96,33.2156,0
+"567","Second Class","Consumer","Central","Tulsa",1289.01,353.7357,0
+"568","Second Class","Consumer","Central","Tyler",51.184,-79.3352,0.8
+"569","Second Class","Consumer","Central","Waco",251.112,-426.274,1
+"570","Second Class","Consumer","Central","Westland",211.96,8.4784,0
+"571","Second Class","Consumer","East","Akron",214.872,-9.6348,2.2
+"572","Second Class","Consumer","East","Auburn",590.39,129.6733,0
+"573","Second Class","Consumer","East","Baltimore",595.82,149.4714,0
+"574","Second Class","Consumer","East","Bowling Green",469.398,55.5471,0.8
+"575","Second Class","Consumer","East","Buffalo",82.74,36.7048,0
+"576","Second Class","Consumer","East","Burlington",715.2,178.8,0
+"577","Second Class","Consumer","East","Cincinnati",130.568,36.9162,0.4
+"578","Second Class","Consumer","East","Cleveland",1449.146,-506.447,3.1
+"579","Second Class","Consumer","East","Columbus",2162.002,56.6855,5.9
+"580","Second Class","Consumer","East","Cranston",2116.506,472.0844,0.3
+"581","Second Class","Consumer","East","Cuyahoga Falls",2.214,-1.476,0.7
+"582","Second Class","Consumer","East","Dublin",503.872,109.7832,0.4
+"583","Second Class","Consumer","East","Everett",1312.38,449.205,0
+"584","Second Class","Consumer","East","Fairfield",1812.478,457.6436,1.3
+"585","Second Class","Consumer","East","Franklin",1517.049,335.3556,0.3
+"586","Second Class","Consumer","East","Freeport",17.248,6.0368,0.2
+"587","Second Class","Consumer","East","Grove City",123.588,13.1952,1.1
+"588","Second Class","Consumer","East","Hagerstown",43.8,20.586,0
+"589","Second Class","Consumer","East","Kent",242.334,-28.1955,1
+"590","Second Class","Consumer","East","Lancaster",917.664,13.6296,0.8
+"591","Second Class","Consumer","East","Lawrence",601.44,255.429,0
+"592","Second Class","Consumer","East","Long Beach",107.422,49.5096,0.2
+"593","Second Class","Consumer","East","Meriden",237.64,113.8064,0
+"594","Second Class","Consumer","East","Morristown",2643.06,739.5186,0
+"595","Second Class","Consumer","East","Nashua",14.82,6.9654,0
+"596","Second Class","Consumer","East","New York City",23179.916,4776.3809,4.2
+"597","Second Class","Consumer","East","Newark",459.402,2.4113,0.7
+"598","Second Class","Consumer","East","Oceanside",1206.02,84.4518,0
+"599","Second Class","Consumer","East","Paterson",475.86,175.7344,0
+"600","Second Class","Consumer","East","Perth Amboy",286.79,74.5654,0
+"601","Second Class","Consumer","East","Philadelphia",14926.234,-2129.5796,15.4
+"602","Second Class","Consumer","East","Providence",69.66,31.347,0
+"603","Second Class","Consumer","East","Quincy",549.775,165.8769,0.3
+"604","Second Class","Consumer","East","Reading",312.776,-27.5138,0.4
+"605","Second Class","Consumer","East","Rochester",274.712,-2.1915,0.6
+"606","Second Class","Consumer","East","Rockville",26.82,12.9474,0
+"607","Second Class","Consumer","East","Springfield",310.632,-57.2509,0.4
+"608","Second Class","Consumer","East","Toledo",53.696,-5.748,0.4
+"609","Second Class","Consumer","East","Troy",1083.09,-233.4981,0.4
+"610","Second Class","Consumer","East","Vineland",153.41,57.7628,0
+"611","Second Class","Consumer","East","Wilmington",420.64,142.1284,0
+"612","Second Class","Consumer","East","Woonsocket",52.96,20.1248,0
+"613","Second Class","Consumer","East","Yonkers",705.562,261.1901,0.2
+"614","Second Class","Consumer","South","Alexandria",81.2,12.18,0
+"615","Second Class","Consumer","South","Arlington",9108.31,2936.6462,0
+"616","Second Class","Consumer","South","Atlanta",594.22,158.5742,0
+"617","Second Class","Consumer","South","Auburn",498.93,244.2543,0
+"618","Second Class","Consumer","South","Boca Raton",4.608,1.6704,0.2
+"619","Second Class","Consumer","South","Clarksville",1635.018,-1053.36,0.9
+"620","Second Class","Consumer","South","Columbia",1260.55,154.2668,0.2
+"621","Second Class","Consumer","South","Columbus",979.89,255.7053,0
+"622","Second Class","Consumer","South","Concord",4297.644,-1862.3124,0.4
+"623","Second Class","Consumer","South","Fayetteville",1559.296,106.5931,2.5
+"624","Second Class","Consumer","South","Florence",2912.36,469.9555,0
+"625","Second Class","Consumer","South","Fort Lauderdale",7.764,-5.176,0.7
+"626","Second Class","Consumer","South","Georgetown",1494.68,323.7236,0
+"627","Second Class","Consumer","South","Hampton",1041.91,280.8992,0
+"628","Second Class","Consumer","South","Harrisonburg",1441.3,245.021,0
+"629","Second Class","Consumer","South","Henderson",1897.67,445.112,0
+"630","Second Class","Consumer","South","Hialeah",36.364,0.5436,0.9
+"631","Second Class","Consumer","South","Hollywood",42.016,12.2176,0.4
+"632","Second Class","Consumer","South","Jackson",1039.014,251.2645,0.6
+"633","Second Class","Consumer","South","Jacksonville",457.192,22.4124,2.3
+"634","Second Class","Consumer","South","Johnson City",228.586,-45.4718,1.3
+"635","Second Class","Consumer","South","Jupiter",2.064,0.1548,0.2
+"636","Second Class","Consumer","South","Knoxville",131.104,21.1644,0.6
+"637","Second Class","Consumer","South","Lafayette",276.28,61.5216,0
+"638","Second Class","Consumer","South","Lake Charles",69.9,21.6012,0
+"639","Second Class","Consumer","South","Lakeland",479.984,89.997,0.2
+"640","Second Class","Consumer","South","Little Rock",140.52,67.5444,0
+"641","Second Class","Consumer","South","Louisville",2215.07,580.5714,0
+"642","Second Class","Consumer","South","Macon",58.72,27.0112,0
+"643","Second Class","Consumer","South","Memphis",944.77,-145.5356,1
+"644","Second Class","Consumer","South","Miami",1725.3145,-215.1026,2.75
+"645","Second Class","Consumer","South","Montgomery",1002.7,285.761,0
+"646","Second Class","Consumer","South","Mount Pleasant",545.94,87.3504,0
+"647","Second Class","Consumer","South","North Charleston",269.49,5.3898,0
+"648","Second Class","Consumer","South","North Miami",7.632,-1.8126,0.2
+"649","Second Class","Consumer","South","Pine Bluff",212.91,70.2048,0
+"650","Second Class","Consumer","South","Port Orange",7.824,2.934,0.2
+"651","Second Class","Consumer","South","Port Saint Lucie",14.336,0.896,0.2
+"652","Second Class","Consumer","South","Raleigh",199.456,13.8484,0.4
+"653","Second Class","Consumer","South","Richmond",2742.85,927.4175,0
+"654","Second Class","Consumer","South","Salem",27.86,9.1938,0
+"655","Second Class","Consumer","South","Sandy Springs",1302.83,301.0897,0
+"656","Second Class","Consumer","South","Springfield",1030.46,281.3876,0
+"657","Second Class","Consumer","South","Tallahassee",4590.344,358.546,1
+"658","Second Class","Consumer","South","Tampa",645.976,16.3357,1.4
+"659","Second Class","Consumer","South","Waynesboro",425.67,98.9298,0
+"660","Second Class","Consumer","South","Wilmington",35.728,8.6932,0.4
+"661","Second Class","Consumer","West","Albuquerque",57.266,2.2953,0.2
+"662","Second Class","Consumer","West","Aurora",824.224,-250.2875,2.7
+"663","Second Class","Consumer","West","Avondale",796.576,89.1836,0.8
+"664","Second Class","Consumer","West","Bakersfield",195.466,-13.7976,0.15
+"665","Second Class","Consumer","West","Bellingham",2690.74,247.7558,0.2
+"666","Second Class","Consumer","West","Chico",54.17,24.4443,0
+"667","Second Class","Consumer","West","Concord",239.666,14.098,0.15
+"668","Second Class","Consumer","West","Des Moines",2328.27,757.9986,0.4
+"669","Second Class","Consumer","West","Encinitas",286.485,61.2374,0.35
+"670","Second Class","Consumer","West","Escondido",53.94,15.6426,0
+"671","Second Class","Consumer","West","Farmington",12.88,0.3864,0
+"672","Second Class","Consumer","West","Fort Collins",594,-27.5438,1.1
+"673","Second Class","Consumer","West","Fresno",5680.3205,371.0725,1.35
+"674","Second Class","Consumer","West","Kent",91.416,18.3282,0.2
+"675","Second Class","Consumer","West","Lakewood",94.2,39.564,0
+"676","Second Class","Consumer","West","Lancaster",17.456,5.8914,0.2
+"677","Second Class","Consumer","West","Las Cruces",49.12,23.0864,0
+"678","Second Class","Consumer","West","Las Vegas",106.88,41.5872,0
+"679","Second Class","Consumer","West","Layton",4.96,2.3312,0
+"680","Second Class","Consumer","West","Littleton",72.294,-98.8018,0.7
+"681","Second Class","Consumer","West","Long Beach",520.74,171.3924,0
+"682","Second Class","Consumer","West","Longview",119.21,38.8983,0
+"683","Second Class","Consumer","West","Los Angeles",16055.034,4452.9554,6.1
+"684","Second Class","Consumer","West","Louisville",1349.084,45.5604,1.3
+"685","Second Class","Consumer","West","Mesa",1549.326,-368.0308,3.1
+"686","Second Class","Consumer","West","Mission Viejo",356.65,98.504,0
+"687","Second Class","Consumer","West","North Las Vegas",1669.6,116.872,0
+"688","Second Class","Consumer","West","Oakland",30.72,9.5754,0
+"689","Second Class","Consumer","West","Olympia",1020.448,139.6269,0.4
+"690","Second Class","Consumer","West","Oxnard",82.95,29.0325,0
+"691","Second Class","Consumer","West","Pasadena",183.38,64.6962,0.2
+"692","Second Class","Consumer","West","Phoenix",49.896,5.0589,1.1
+"693","Second Class","Consumer","West","Pleasant Grove",2126.034,576.5563,0.4
+"694","Second Class","Consumer","West","Pocatello",530.416,115.3487,0.4
+"695","Second Class","Consumer","West","Pomona",18.75,9,0
+"696","Second Class","Consumer","West","Portland",466.656,54.126,0.6
+"697","Second Class","Consumer","West","Rancho Cucamonga",152.94,41.2938,0
+"698","Second Class","Consumer","West","Sacramento",120.712,-18.1068,0.2
+"699","Second Class","Consumer","West","Salem",29.304,2.5641,0.2
+"700","Second Class","Consumer","West","Salt Lake City",295.056,106.9578,0.2
+"701","Second Class","Consumer","West","San Diego",9157.69,1301.2788,1.4
+"702","Second Class","Consumer","West","San Francisco",18195.13,1557.7503,3.35
+"703","Second Class","Consumer","West","San Jose",344.018,100.4089,0.2
+"704","Second Class","Consumer","West","Scottsdale",271.992,23.7993,0.2
+"705","Second Class","Consumer","West","Seattle",9120.542,1544.4568,2.8
+"706","Second Class","Consumer","West","Sparks",79.36,23.808,0
+"707","Second Class","Consumer","West","Springfield",356.706,-155.7072,0.9
+"708","Second Class","Consumer","West","Stockton",164.16,59.6468,0.4
+"709","Second Class","Consumer","West","Thornton",306.36,50.2934,1.6
+"710","Second Class","Consumer","West","Tucson",35.12,13.17,0.2
+"711","Second Class","Consumer","West","Vacaville",423.28,110.0528,0
+"712","Second Class","Consumer","West","Vallejo",46.688,20.3536,0.2
+"713","Second Class","Consumer","West","West Jordan",55.5,9.99,0
+"714","Second Class","Consumer","West","Westminster",243.16,72.948,0
+"715","Second Class","Corporate","Central","Amarillo",19.648,6.6312,0.2
+"716","Second Class","Corporate","Central","Ann Arbor",736.473,152.5158,0.1
+"717","Second Class","Corporate","Central","Arlington",911.256,111.5262,0.4
+"718","Second Class","Corporate","Central","Aurora",437.036,-202.5053,2.9
+"719","Second Class","Corporate","Central","Canton",316.32,149.2776,0
+"720","Second Class","Corporate","Central","Chicago",904.213,-52.2907,6.5
+"721","Second Class","Corporate","Central","Corpus Christi",31.408,-19.627,1.8
+"722","Second Class","Corporate","Central","Dallas",1062.376,138.1346,1.2
+"723","Second Class","Corporate","Central","Decatur",433.56,78.5007,0.4
+"724","Second Class","Corporate","Central","Des Moines",445.4,129.1592,0
+"725","Second Class","Corporate","Central","Detroit",4613.84,1231.5787,0
+"726","Second Class","Corporate","Central","El Paso",95.976,-10.7973,0.2
+"727","Second Class","Corporate","Central","Houston",9650.566,-785.8461,8.72
+"728","Second Class","Corporate","Central","Indianapolis",4472.32,1372.366,0
+"729","Second Class","Corporate","Central","Iowa City",9.99,4.4955,0
+"730","Second Class","Corporate","Central","La Porte",383.14,163.172,0
+"731","Second Class","Corporate","Central","Laredo",609.614,63.2508,1.6
+"732","Second Class","Corporate","Central","Mansfield",41.472,14.5152,0.2
+"733","Second Class","Corporate","Central","Mcallen",544.41,22.2872,3.1
+"734","Second Class","Corporate","Central","Milwaukee",2396.08,644.1993,0
+"735","Second Class","Corporate","Central","Minneapolis",67.15,16.7875,0
+"736","Second Class","Corporate","Central","Omaha",143.72,68.1676,0
+"737","Second Class","Corporate","Central","Pasadena",20.64,2.322,0.2
+"738","Second Class","Corporate","Central","Peoria",12.462,-20.5623,0.8
+"739","Second Class","Corporate","Central","Port Arthur",697.8208,92.9328,0.72
+"740","Second Class","Corporate","Central","Richmond",891.5,290.431,0
+"741","Second Class","Corporate","Central","Rockford",189.712,41.6096,1
+"742","Second Class","Corporate","Central","Round Rock",341.96,-427.45,0.6
+"743","Second Class","Corporate","Central","Saint Louis",25.92,12.4416,0
+"744","Second Class","Corporate","Central","Saint Paul",114.95,2.299,0
+"745","Second Class","Corporate","Central","San Antonio",80.88,-17.0556,0.8
+"746","Second Class","Corporate","Central","San Marcos",108.444,-19.3413,1.2
+"747","Second Class","Corporate","Central","Springfield",4619.33,206.6524,0
+"748","Second Class","Corporate","Central","Taylor",41.9,8.799,0
+"749","Second Class","Corporate","Central","West Allis",250.48,28.3708,0
+"750","Second Class","Corporate","East","Atlantic City",23.36,11.68,0
+"751","Second Class","Corporate","East","Auburn",46.96,22.5408,0
+"752","Second Class","Corporate","East","Baltimore",207.76,85.1816,0
+"753","Second Class","Corporate","East","Bethlehem",132.94,-12.5528,0.5
+"754","Second Class","Corporate","East","Buffalo",198.55,43.198,0
+"755","Second Class","Corporate","East","Clinton",272.97,43.6752,0
+"756","Second Class","Corporate","East","Columbia",3013.78,991.3618,0
+"757","Second Class","Corporate","East","Columbus",387.6,-81.3874,0.4
+"758","Second Class","Corporate","East","Concord",540.26,128.646,0
+"759","Second Class","Corporate","East","Dover",423.62,123.7914,0
+"760","Second Class","Corporate","East","Dublin",1048.35,-69.89,0.4
+"761","Second Class","Corporate","East","Elyria",1.824,-1.3984,0.7
+"762","Second Class","Corporate","East","Fairfield",13.05,6.003,0
+"763","Second Class","Corporate","East","Lakewood",264.92,36.5278,0
+"764","Second Class","Corporate","East","Long Beach",34.38,10.7595,0
+"765","Second Class","Corporate","East","Lorain",1421.664,-734.5264,0.4
+"766","Second Class","Corporate","East","Lowell",2409.89,592.109,0
+"767","Second Class","Corporate","East","Marion",116.832,33.5892,0.2
+"768","Second Class","Corporate","East","Meriden",1217.38,318.929,0
+"769","Second Class","Corporate","East","New York City",9533.882,1726.8705,3.1
+"770","Second Class","Corporate","East","Newark",1198.178,64.1586,0.7
+"771","Second Class","Corporate","East","Orange",5.76,2.8224,0
+"772","Second Class","Corporate","East","Paterson",345.26,154.4214,0
+"773","Second Class","Corporate","East","Philadelphia",8215.22,-2022.7981,11.1
+"774","Second Class","Corporate","East","Providence",916.14,85.5834,0
+"775","Second Class","Corporate","East","Reading",545.928,-242.7512,0.7
+"776","Second Class","Corporate","East","Toledo",32.648,5.103,0.4
+"777","Second Class","Corporate","East","Troy",756.244,-246.4631,0.9
+"778","Second Class","Corporate","East","Warwick",2314.88,1008.9352,0
+"779","Second Class","Corporate","East","Watertown",1669.848,221.7396,0.2
+"780","Second Class","Corporate","East","Wilmington",77.55,21.714,0
+"781","Second Class","Corporate","South","Alexandria",4251.92,112.2737,0
+"782","Second Class","Corporate","South","Asheville",26.88,-11.7864,0.9
+"783","Second Class","Corporate","South","Atlanta",3098.61,1488.0236,0
+"784","Second Class","Corporate","South","Bossier City",1287.26,326.5672,0
+"785","Second Class","Corporate","South","Cary",66.616,7.8182,0.4
+"786","Second Class","Corporate","South","Charlotte",1106.924,-322.8988,0.8
+"787","Second Class","Corporate","South","Columbia",1208.56,240.9384,0.2
+"788","Second Class","Corporate","South","Columbus",13.58,6.6166,0
+"789","Second Class","Corporate","South","Delray Beach",232.624,25.8328,0.4
+"790","Second Class","Corporate","South","Durham",140.736,12.3144,0.2
+"791","Second Class","Corporate","South","Fayetteville",12.158,-5.0448,0.9
+"792","Second Class","Corporate","South","Fort Lauderdale",1158.12,130.2885,0.2
+"793","Second Class","Corporate","South","Franklin",82.92,-31.386,1.1
+"794","Second Class","Corporate","South","Gulfport",117.81,53.718,0
+"795","Second Class","Corporate","South","Henderson",3899.94,1113.8432,0
+"796","Second Class","Corporate","South","Hialeah",1015.816,102.0528,0.4
+"797","Second Class","Corporate","South","Hoover",22.63,7.6137,0
+"798","Second Class","Corporate","South","Huntsville",1319.96,527.984,0
+"799","Second Class","Corporate","South","Jacksonville",1259.163,176.6559,2.5
+"800","Second Class","Corporate","South","Knoxville",342.24,-25.2552,0.4
+"801","Second Class","Corporate","South","Little Rock",1152.87,287.244,0
+"802","Second Class","Corporate","South","Louisville",701.96,168.4704,0
+"803","Second Class","Corporate","South","Macon",38.88,18.6624,0
+"804","Second Class","Corporate","South","Marietta",2673.69,431.2023,0
+"805","Second Class","Corporate","South","Miami",10.08,3.528,0.2
+"806","Second Class","Corporate","South","Miramar",552.856,34.8962,1.5
+"807","Second Class","Corporate","South","Montgomery",2226.96,448.1446,0
+"808","Second Class","Corporate","South","Murfreesboro",15.992,0.9995,0.2
+"809","Second Class","Corporate","South","Owensboro",25.5,6.63,0
+"810","Second Class","Corporate","South","Port Saint Lucie",231.92,5.798,0.2
+"811","Second Class","Corporate","South","Richmond",2954.28,942.1683,0
+"812","Second Class","Corporate","South","Roswell",1263.8,370.09,0
+"813","Second Class","Corporate","South","Springfield",520.03,160.2692,0
+"814","Second Class","Corporate","South","Summerville",406.94,196.9132,0
+"815","Second Class","Corporate","South","Tamarac",1410.066,-349.3705,1.1
+"816","Second Class","Corporate","South","Warner Robins",392.94,43.2234,0
+"817","Second Class","Corporate","West","Anaheim",1295.78,310.9872,0
+"818","Second Class","Corporate","West","Apple Valley",1295.025,255.237,0.15
+"819","Second Class","Corporate","West","Arvada",503.4,59.8556,0.8
+"820","Second Class","Corporate","West","Brentwood",382.2,118.7556,0
+"821","Second Class","Corporate","West","Concord",1629.712,123.654,0.2
+"822","Second Class","Corporate","West","Covington",46.9,13.132,0
+"823","Second Class","Corporate","West","Denver",603.434,153.466,1.3
+"824","Second Class","Corporate","West","Escondido",17.248,6.0368,0.2
+"825","Second Class","Corporate","West","Eugene",1465.032,134.0372,1.2
+"826","Second Class","Corporate","West","Glendale",104.696,6.5435,0.2
+"827","Second Class","Corporate","West","Inglewood",2971.792,926.335,0.6
+"828","Second Class","Corporate","West","Laguna Niguel",74.04,18.8325,0.2
+"829","Second Class","Corporate","West","Las Vegas",130.28,64.816,0
+"830","Second Class","Corporate","West","Los Angeles",8125.12,879.9872,5
+"831","Second Class","Corporate","West","Louisville",9.432,3.0654,0.2
+"832","Second Class","Corporate","West","Loveland",1.188,-0.99,0.7
+"833","Second Class","Corporate","West","Modesto",52.792,4.6193,0.2
+"834","Second Class","Corporate","West","North Las Vegas",134.6,55.312,0
+"835","Second Class","Corporate","West","Oakland",75.126,8.7096,0.2
+"836","Second Class","Corporate","West","Oceanside",222.032,31.0424,0.6
+"837","Second Class","Corporate","West","Peoria",174.304,-5.3644,0.4
+"838","Second Class","Corporate","West","Phoenix",365.496,32.4028,0.6
+"839","Second Class","Corporate","West","Pleasant Grove",12.144,4.0986,0.2
+"840","Second Class","Corporate","West","Provo",1804.084,257.4779,0.6
+"841","Second Class","Corporate","West","Sacramento",335.12,41.2868,0.6
+"842","Second Class","Corporate","West","Salem",344.92,38.5212,0.6
+"843","Second Class","Corporate","West","Salinas",580.634,254.8203,0.6
+"844","Second Class","Corporate","West","San Francisco",8432.074,911.6969,1.8
+"845","Second Class","Corporate","West","Santa Ana",163.392,27.3252,0.2
+"846","Second Class","Corporate","West","Santa Barbara",8.96,4.3904,0
+"847","Second Class","Corporate","West","Santa Clara",131.84,48.5204,0.2
+"848","Second Class","Corporate","West","Seattle",4385.05,661.7943,1.4
+"849","Second Class","Corporate","West","Spokane",719.298,50.5413,0.2
+"850","Second Class","Corporate","West","Springfield",64.864,6.4864,0.2
+"851","Second Class","Corporate","West","Sunnyvale",420.234,110.207,0.2
+"852","Second Class","Corporate","West","Thousand Oaks",14.7,4.116,0
+"853","Second Class","Corporate","West","Vancouver",633.176,60.3462,0.2
+"854","Second Class","Corporate","West","Visalia",7.92,3.4848,0
+"855","Second Class","Corporate","West","Woodland",24.678,9.3864,0.2
+"856","Second Class","Corporate","West","Yuma",10.496,1.1808,0.2
+"857","Second Class","Home Office","Central","Aurora",292.296,-303.3465,0.8
+"858","Second Class","Home Office","Central","Austin",762.234,259.6002,1
+"859","Second Class","Home Office","Central","Burlington",12.68,6.0864,0
+"860","Second Class","Home Office","Central","Canton",501.81,0,0
+"861","Second Class","Home Office","Central","Chicago",6268.691,408.0602,6.3
+"862","Second Class","Home Office","Central","Columbia",2377.56,972.2454,0
+"863","Second Class","Home Office","Central","Corpus Christi",74.352,23.235,0.2
+"864","Second Class","Home Office","Central","Dallas",15.008,-12.0064,0.6
+"865","Second Class","Home Office","Central","Des Moines",25.9,12.691,0
+"866","Second Class","Home Office","Central","Detroit",1748.91,477.3436,0.1
+"867","Second Class","Home Office","Central","Fort Worth",2079.112,281.1181,0.4
+"868","Second Class","Home Office","Central","Garland",30.384,3.798,0.2
+"869","Second Class","Home Office","Central","Grand Rapids",19.44,9.5256,0
+"870","Second Class","Home Office","Central","Houston",3770.644,-261.1577,9.7
+"871","Second Class","Home Office","Central","Huntsville",142.344,17.154,0.6
+"872","Second Class","Home Office","Central","Indianapolis",999.98,449.991,0
+"873","Second Class","Home Office","Central","Jackson",377.97,94.4925,0
+"874","Second Class","Home Office","Central","Lakeville",3745.63,1154.6735,0
+"875","Second Class","Home Office","Central","Lansing",269.68,54.4388,0
+"876","Second Class","Home Office","Central","Midland",15.28,7.4872,0
+"877","Second Class","Home Office","Central","Milwaukee",2920.42,586.2142,0
+"878","Second Class","Home Office","Central","Minneapolis",40.28,15.7488,0
+"879","Second Class","Home Office","Central","Plano",13.616,3.5742,0.2
+"880","Second Class","Home Office","Central","Saint Charles",1349.63,253.3058,1.3
+"881","Second Class","Home Office","Central","Springfield",919.48,236.2054,0
+"882","Second Class","Home Office","Central","Sterling Heights",79.36,20.6336,0
+"883","Second Class","Home Office","Central","Wichita",149.2,68.2124,0
+"884","Second Class","Home Office","East","Bayonne",183.4,79.403,0
+"885","Second Class","Home Office","East","Cambridge",411.49,137.0576,0
+"886","Second Class","Home Office","East","Columbus",391.13,22.0592,1.3
+"887","Second Class","Home Office","East","Concord",184.66,84.9436,0
+"888","Second Class","Home Office","East","Cranston",592.74,160.0398,0
+"889","Second Class","Home Office","East","Dover",3332.974,426.8139,0.3
+"890","Second Class","Home Office","East","Everett",1170.918,242.671,0.3
+"891","Second Class","Home Office","East","Lakewood",449.352,-80.6371,0.6
+"892","Second Class","Home Office","East","Lancaster",331.157,-79.6898,1.9
+"893","Second Class","Home Office","East","Long Beach",7.56,0.3024,0
+"894","Second Class","Home Office","East","New York City",5402.899,889.7588,1.1
+"895","Second Class","Home Office","East","Newark",299.52,149.76,0
+"896","Second Class","Home Office","East","Orange",53.37,20.8197,0
+"897","Second Class","Home Office","East","Parma",63.968,19.99,0.2
+"898","Second Class","Home Office","East","Philadelphia",1930.424,-364.0363,1.6
+"899","Second Class","Home Office","East","Providence",448.21,107.5103,0
+"900","Second Class","Home Office","East","Springfield",253.248,-19.0668,1.3
+"901","Second Class","Home Office","East","Troy",203.63,53.2902,0
+"902","Second Class","Home Office","East","Washington",111.68,48.2928,0
+"903","Second Class","Home Office","East","Yonkers",163.96,70.5028,0
+"904","Second Class","Home Office","South","Arlington",142.34,30.9246,0
+"905","Second Class","Home Office","South","Bristol",67.56,8.445,0.2
+"906","Second Class","Home Office","South","Charlotte",823.61,9.003,1.1
+"907","Second Class","Home Office","South","Chattanooga",91.475,-1.8295,0.5
+"908","Second Class","Home Office","South","Columbus",7.04,3.0976,0
+"909","Second Class","Home Office","South","Florence",18,3.24,0
+"910","Second Class","Home Office","South","Henderson",822.29,254.322,0
+"911","Second Class","Home Office","South","Hollywood",11.52,-7.68,0.7
+"912","Second Class","Home Office","South","Huntsville",819.28,372.8058,0
+"913","Second Class","Home Office","South","Jackson",684.78,280.7697,0
+"914","Second Class","Home Office","South","Jacksonville",1519.088,245.8361,1
+"915","Second Class","Home Office","South","Lake Charles",477.51,219.6546,0
+"916","Second Class","Home Office","South","Miami",134.728,30.9602,0.6
+"917","Second Class","Home Office","South","Monroe",682.91,180.2656,0
+"918","Second Class","Home Office","South","Raleigh",1655.312,166.817,0.8
+"919","Second Class","Home Office","South","Roswell",830.24,238.1896,0
+"920","Second Class","Home Office","South","Tamarac",3.444,-2.5256,0.7
+"921","Second Class","Home Office","West","Albuquerque",780.086,322.9391,0.2
+"922","Second Class","Home Office","West","Brentwood",821.514,80.4282,0.2
+"923","Second Class","Home Office","West","Chico",1242.896,194.7256,0.2
+"924","Second Class","Home Office","West","Costa Mesa",277.71,39.2283,0
+"925","Second Class","Home Office","West","Danville",1158.882,282.4405,0.2
+"926","Second Class","Home Office","West","Des Moines",107.648,33.64,0.2
+"927","Second Class","Home Office","West","Glendale",93.024,33.7212,0.2
+"928","Second Class","Home Office","West","Huntington Beach",12.78,5.751,0
+"929","Second Class","Home Office","West","Lancaster",100.16,35.056,0.4
+"930","Second Class","Home Office","West","Los Angeles",6649.93,931.1605,1.2
+"931","Second Class","Home Office","West","North Las Vegas",4685.076,1691.3097,0.2
+"932","Second Class","Home Office","West","Phoenix",191.968,16.7972,0.2
+"933","Second Class","Home Office","West","Salinas",148.257,15.6978,0.15
+"934","Second Class","Home Office","West","Salt Lake City",166.44,79.8912,0
+"935","Second Class","Home Office","West","San Diego",543.518,145.7562,0.2
+"936","Second Class","Home Office","West","San Francisco",2683.068,307.6245,0.95
+"937","Second Class","Home Office","West","San Jose",76.14,26.649,0
+"938","Second Class","Home Office","West","Seattle",8050.176,1189.79,0.8
+"939","Standard Class","Consumer","Central","Allen",259.942,-25.9938,0.5
+"940","Standard Class","Consumer","Central","Amarillo",722.908,-81.1955,1.3
+"941","Standard Class","Consumer","Central","Apple Valley",137.94,8.9706,0
+"942","Standard Class","Consumer","Central","Appleton",1649.75,544.4175,0
+"943","Standard Class","Consumer","Central","Arlington",2657.645,-135.7125,1.7
+"944","Standard Class","Consumer","Central","Arlington Heights",14.112,1.2348,0.2
+"945","Standard Class","Consumer","Central","Aurora",2970.583,172.8812,2.1
+"946","Standard Class","Consumer","Central","Austin",1802.062,55.2459,4.4
+"947","Standard Class","Consumer","Central","Bloomington",1069.954,-400.2584,2.7
+"948","Standard Class","Consumer","Central","Bolingbrook",148.48,16.704,0.2
+"949","Standard Class","Consumer","Central","Broken Arrow",12.86,6.0452,0
+"950","Standard Class","Consumer","Central","Brownsville",327.7328,-14.4588,0.32
+"951","Standard Class","Consumer","Central","Buffalo Grove",831.399,-89.6478,0.7
+"952","Standard Class","Consumer","Central","Burlington",44.75,20.585,0
+"953","Standard Class","Consumer","Central","Carol Stream",1305.81,-39.8683,1.2
+"954","Standard Class","Consumer","Central","Carrollton",552.352,-547.553,3.6
+"955","Standard Class","Consumer","Central","Cedar Hill",7.08,2.478,0.2
+"956","Standard Class","Consumer","Central","Champaign",151.96,-182.352,0.6
+"957","Standard Class","Consumer","Central","Chicago",15203.944,-1562.9513,47
+"958","Standard Class","Consumer","Central","College Station",233.058,-53.2704,0.3
+"959","Standard Class","Consumer","Central","Columbus",4095.64,1084.4773,0
+"960","Standard Class","Consumer","Central","Coon Rapids",503.13,136.4532,0
+"961","Standard Class","Consumer","Central","Coppell",40.096,6.7472,0.6
+"962","Standard Class","Consumer","Central","Cottage Grove",144.36,54.7968,0
+"963","Standard Class","Consumer","Central","Dallas",3748.63,-506.7931,14.1
+"964","Standard Class","Consumer","Central","Dearborn Heights",280.96,90.0462,0
+"965","Standard Class","Consumer","Central","Decatur",1750.791,-145.2521,3.6
+"966","Standard Class","Consumer","Central","Des Moines",1190.84,109.5012,0
+"967","Standard Class","Consumer","Central","Des Plaines",383.84,47.98,0.2
+"968","Standard Class","Consumer","Central","Detroit",17551,7042.4412,0.3
+"969","Standard Class","Consumer","Central","Dubuque",263.96,76.5484,0
+"970","Standard Class","Consumer","Central","Eagan",75.9,24.8724,0
+"971","Standard Class","Consumer","Central","Eau Claire",1085.87,209.2714,0
+"972","Standard Class","Consumer","Central","Edinburg",2.368,0.8288,0.2
+"973","Standard Class","Consumer","Central","Edmond",959.55,243.1039,0
+"974","Standard Class","Consumer","Central","El Paso",639.566,-58.9533,1.8
+"975","Standard Class","Consumer","Central","Evanston",1483.528,481.0887,0.4
+"976","Standard Class","Consumer","Central","Fort Worth",2228.136,545.7262,2
+"977","Standard Class","Consumer","Central","Frankfort",20.768,-52.9584,0.8
+"978","Standard Class","Consumer","Central","Fremont",104.85,50.328,0
+"979","Standard Class","Consumer","Central","Grand Prairie",893.486,-74.5765,3.6
+"980","Standard Class","Consumer","Central","Grand Rapids",272.14,112.0616,0
+"981","Standard Class","Consumer","Central","Harlingen",79.344,14.0706,0.4
+"982","Standard Class","Consumer","Central","Highland Park",1454.838,-169.703,1.6
+"983","Standard Class","Consumer","Central","Houston",21564.927,-4877.9552,56.16
+"984","Standard Class","Consumer","Central","Huntsville",2339.972,-698.0868,6.9
+"985","Standard Class","Consumer","Central","Independence",839.43,218.2518,0
+"986","Standard Class","Consumer","Central","Indianapolis",395.1,182.7234,0
+"987","Standard Class","Consumer","Central","Irving",369.724,-185.3837,1.8
+"988","Standard Class","Consumer","Central","Jackson",179.609,72.699,0.1
+"989","Standard Class","Consumer","Central","Kenosha",2531.88,596.7203,0
+"990","Standard Class","Consumer","Central","La Porte",526.45,31.587,0
+"991","Standard Class","Consumer","Central","Lafayette",664.46,154.7512,0
+"992","Standard Class","Consumer","Central","Lakeville",359.44,152.9586,0
+"993","Standard Class","Consumer","Central","Laredo",402.886,-122.3047,2.4
+"994","Standard Class","Consumer","Central","Lawrence",674.61,182.2158,0
+"995","Standard Class","Consumer","Central","Lawton",475.42,157.4166,0
+"996","Standard Class","Consumer","Central","Lubbock",546.792,172.1543,1.2
+"997","Standard Class","Consumer","Central","Madison",2482.24,432.647,0
+"998","Standard Class","Consumer","Central","Mcallen",203.648,10.2258,1.6
+"999","Standard Class","Consumer","Central","Midland",1276.53,338.2146,0
+"1000","Standard Class","Consumer","Central","Milwaukee",2224.98,451.9896,0
+"1001","Standard Class","Consumer","Central","Minneapolis",13479.06,5713.5037,0
+"1002","Standard Class","Consumer","Central","Mishawaka",776.24,96.592,0
+"1003","Standard Class","Consumer","Central","Moorhead",63.96,19.8276,0
+"1004","Standard Class","Consumer","Central","Naperville",2.808,-4.4928,0.8
+"1005","Standard Class","Consumer","Central","New Albany",209.55,73.3529,0
+"1006","Standard Class","Consumer","Central","New Castle",84.61,23.0839,0
+"1007","Standard Class","Consumer","Central","Norfolk",17.43,8.0178,0
+"1008","Standard Class","Consumer","Central","Oklahoma City",3397.72,862.0247,0
+"1009","Standard Class","Consumer","Central","Omaha",4910.74,1459.5893,0
+"1010","Standard Class","Consumer","Central","Oswego",321.978,-536.1276,1.8
+"1011","Standard Class","Consumer","Central","Park Ridge",143.856,48.5514,0.2
+"1012","Standard Class","Consumer","Central","Pasadena",212.992,-22.7882,0.4
+"1013","Standard Class","Consumer","Central","Pharr",124.404,-21.3264,0.3
+"1014","Standard Class","Consumer","Central","Plano",3496.5346,-393.708,3.52
+"1015","Standard Class","Consumer","Central","Port Arthur",34.048,11.0288,0.4
+"1016","Standard Class","Consumer","Central","Quincy",151.144,6.3855,1.4
+"1017","Standard Class","Consumer","Central","Richmond",1608.48,446.3504,0
+"1018","Standard Class","Consumer","Central","Rochester",1514.77,356.3235,0
+"1019","Standard Class","Consumer","Central","Rochester Hills",132.52,54.3332,0
+"1020","Standard Class","Consumer","Central","Rockford",2196.54,-384.2532,1.7
+"1021","Standard Class","Consumer","Central","Roseville",17.48,8.2156,0
+"1022","Standard Class","Consumer","Central","Round Rock",4512.0928,-755.9813,1.32
+"1023","Standard Class","Consumer","Central","Royal Oak",35.34,16.9632,0
+"1024","Standard Class","Consumer","Central","Saginaw",376.1,68.8809,0
+"1025","Standard Class","Consumer","Central","San Antonio",16305.067,-6842.7375,10.1
+"1026","Standard Class","Consumer","Central","Sioux Falls",20.23,9.5081,0
+"1027","Standard Class","Consumer","Central","Skokie",75.144,-35.6424,1.6
+"1028","Standard Class","Consumer","Central","Springfield",1971.19,410.6546,0
+"1029","Standard Class","Consumer","Central","Sterling Heights",11.68,3.504,0
+"1030","Standard Class","Consumer","Central","Texas City",790.972,20.2218,0.9
+"1031","Standard Class","Consumer","Central","Trenton",614.19,196.1834,0
+"1032","Standard Class","Consumer","Central","Tulsa",2600.88,776.514,0
+"1033","Standard Class","Consumer","Central","Tyler",296.022,-364.3734,2.4
+"1034","Standard Class","Consumer","Central","Urbandale",149.12,57.718,0
+"1035","Standard Class","Consumer","Central","Waco",354.4392,-92.8842,1.32
+"1036","Standard Class","Consumer","Central","Waterloo",30.32,11.8248,0
+"1037","Standard Class","Consumer","Central","Waukesha",54.5,14.17,0
+"1038","Standard Class","Consumer","Central","Wausau",317.48,90.4306,0
+"1039","Standard Class","Consumer","Central","Westland",1846.016,381.1211,0.1
+"1040","Standard Class","Consumer","Central","Wheeling",737.142,-293.3178,1.3
+"1041","Standard Class","Consumer","Central","Wichita",451.32,192.7842,0
+"1042","Standard Class","Consumer","Central","Woodstock",8.85,-13.7175,0.8
+"1043","Standard Class","Consumer","East","Akron",449.292,-86.0418,2.4
+"1044","Standard Class","Consumer","East","Allentown",15.808,3.7128,0.4
+"1045","Standard Class","Consumer","East","Auburn",208.788,50.5724,0.2
+"1046","Standard Class","Consumer","East","Baltimore",579.522,112.9168,0.3
+"1047","Standard Class","Consumer","East","Belleville",627.93,185.3628,0
+"1048","Standard Class","Consumer","East","Bowling Green",269.873,15.7518,0.9
+"1049","Standard Class","Consumer","East","Bristol",121.24,21.485,0
+"1050","Standard Class","Consumer","East","Buffalo",6995.786,693.1673,0.4
+"1051","Standard Class","Consumer","East","Burlington",637.18,196.316,0
+"1052","Standard Class","Consumer","East","Chester",1106.77,-20.0355,1
+"1053","Standard Class","Consumer","East","Cincinnati",329.445,37.1889,1.3
+"1054","Standard Class","Consumer","East","Cleveland",1687.239,-322.4959,3.4
+"1055","Standard Class","Consumer","East","Clinton",1133.82,435.0198,0
+"1056","Standard Class","Consumer","East","Columbia",3303.42,1466.5044,0
+"1057","Standard Class","Consumer","East","Columbus",4542.427,-190.5599,9.8
+"1058","Standard Class","Consumer","East","Concord",68.62,32.2514,0
+"1059","Standard Class","Consumer","East","Cranston",102.93,48.3771,0
+"1060","Standard Class","Consumer","East","Cuyahoga Falls",18.528,-12.352,0.7
+"1061","Standard Class","Consumer","East","Dover",871.34,375.69,0
+"1062","Standard Class","Consumer","East","East Orange",31.8,13.674,0
+"1063","Standard Class","Consumer","East","Everett",109.53,52.3551,0
+"1064","Standard Class","Consumer","East","Fairfield",1119.823,-64.4951,2.8
+"1065","Standard Class","Consumer","East","Franklin",711.706,-126.6319,0.3
+"1066","Standard Class","Consumer","East","Freeport",383.46,84.867,0
+"1067","Standard Class","Consumer","East","Hamilton",328.224,-9.385,0.8
+"1068","Standard Class","Consumer","East","Hempstead",910.526,142.4924,0.4
+"1069","Standard Class","Consumer","East","Jamestown",4548.81,1228.1787,0
+"1070","Standard Class","Consumer","East","Lakewood",3595.752,510.7961,0.7
+"1071","Standard Class","Consumer","East","Lancaster",5475.654,-6978.2566,4.8
+"1072","Standard Class","Consumer","East","Lawrence",1258.8,293.4885,0.3
+"1073","Standard Class","Consumer","East","Leominster",25.87,11.736,0
+"1074","Standard Class","Consumer","East","Long Beach",4386.252,961.4543,0.6
+"1075","Standard Class","Consumer","East","Lorain",48.896,8.5568,0.2
+"1076","Standard Class","Consumer","East","Lowell",45.08,18.79,0
+"1077","Standard Class","Consumer","East","Malden",39.68,10.3168,0
+"1078","Standard Class","Consumer","East","Manchester",941.25,286.3354,0
+"1079","Standard Class","Consumer","East","Marion",672.41,-6.9392,1.4
+"1080","Standard Class","Consumer","East","Marlborough",206.64,67.6068,0
+"1081","Standard Class","Consumer","East","Medina",661.026,-146.985,1.9
+"1082","Standard Class","Consumer","East","Meriden",63.14,28.3886,0
+"1083","Standard Class","Consumer","East","Middletown",870.14,74.1862,0
+"1084","Standard Class","Consumer","East","Morristown",521.61,235.4364,0
+"1085","Standard Class","Consumer","East","Mount Vernon",137.17,64.4699,0
+"1086","Standard Class","Consumer","East","New Bedford",23.18,7.6494,0
+"1087","Standard Class","Consumer","East","New Rochelle",907.668,204.62,0.5
+"1088","Standard Class","Consumer","East","New York City",80847.298,18114.7874,18.6
+"1089","Standard Class","Consumer","East","Newark",13703.812,6078.1792,1.7
+"1090","Standard Class","Consumer","East","Norwich",380.5,149.431,0
+"1091","Standard Class","Consumer","East","Oceanside",1048.526,402.6092,0.5
+"1092","Standard Class","Consumer","East","Orange",4.91,2.4059,0
+"1093","Standard Class","Consumer","East","Parma",3624.448,16.0422,1.7
+"1094","Standard Class","Consumer","East","Passaic",1562.086,356.8186,0.3
+"1095","Standard Class","Consumer","East","Paterson",1016.06,244.288,0
+"1096","Standard Class","Consumer","East","Philadelphia",36106.938,-3738.8338,52.6
+"1097","Standard Class","Consumer","East","Plainfield",976.33,403.4677,0
+"1098","Standard Class","Consumer","East","Providence",14.9,1.043,0
+"1099","Standard Class","Consumer","East","Quincy",27.64,12.8638,0
+"1100","Standard Class","Consumer","East","Rochester",3013.188,880.2598,0.6
+"1101","Standard Class","Consumer","East","Rockville",442.95,120.2673,0
+"1102","Standard Class","Consumer","East","Rome",35.01,9.1602,0
+"1103","Standard Class","Consumer","East","Springfield",1404.392,-399.9025,2.4
+"1104","Standard Class","Consumer","East","Toledo",1709.654,-335.3853,1
+"1105","Standard Class","Consumer","East","Troy",160.296,20.2564,0.8
+"1106","Standard Class","Consumer","East","Utica",79.99,28.7964,0
+"1107","Standard Class","Consumer","East","Vineland",244.006,-31.3722,0.3
+"1108","Standard Class","Consumer","East","Washington",2753.34,1011.2965,0
+"1109","Standard Class","Consumer","East","Waterbury",3.52,1.0208,0
+"1110","Standard Class","Consumer","East","Watertown",698.5,229.7008,0.2
+"1111","Standard Class","Consumer","East","Wilmington",1895.413,314.7754,0.3
+"1112","Standard Class","Consumer","East","Yonkers",6735.704,2411.9404,0.8
+"1113","Standard Class","Consumer","South","Alexandria",49.62,19.4068,0
+"1114","Standard Class","Consumer","South","Arlington",4303.56,1233.7486,0
+"1115","Standard Class","Consumer","South","Asheville",68.264,7.9109,0.6
+"1116","Standard Class","Consumer","South","Athens",1407.21,382.4212,0
+"1117","Standard Class","Consumer","South","Atlanta",10511.79,4363.3987,0
+"1118","Standard Class","Consumer","South","Auburn",1264.14,207.2624,0
+"1119","Standard Class","Consumer","South","Bartlett",88.96,10.008,0.2
+"1120","Standard Class","Consumer","South","Boynton Beach",123.104,15.146,0.6
+"1121","Standard Class","Consumer","South","Burlington",2188.402,-569.1736,1
+"1122","Standard Class","Consumer","South","Charlotte",6910.806,-530.1167,5.8
+"1123","Standard Class","Consumer","South","Chattanooga",757.004,53.1421,1.9
+"1124","Standard Class","Consumer","South","Chesapeake",4211.88,783.8369,0
+"1125","Standard Class","Consumer","South","Clarksville",69.216,11.2476,0.2
+"1126","Standard Class","Consumer","South","Columbia",5374.52,920.1832,1.8
+"1127","Standard Class","Consumer","South","Columbus",5239.4,1417.1535,0
+"1128","Standard Class","Consumer","South","Concord",791.08,71.525,1
+"1129","Standard Class","Consumer","South","Conway",301.96,45.294,0
+"1130","Standard Class","Consumer","South","Coral Springs",387.136,24.196,0.2
+"1131","Standard Class","Consumer","South","Daytona Beach",272.3315,-52.334,1.05
+"1132","Standard Class","Consumer","South","Decatur",435.79,77.4454,0
+"1133","Standard Class","Consumer","South","Deltona",294.28,51.7644,0.4
+"1134","Standard Class","Consumer","South","Fayetteville",3398.158,1195.0733,1.7
+"1135","Standard Class","Consumer","South","Florence",3760.41,1611.3181,0
+"1136","Standard Class","Consumer","South","Fort Lauderdale",2151.6485,-561.714,1.5
+"1137","Standard Class","Consumer","South","Franklin",45.864,-7.3386,0.4
+"1138","Standard Class","Consumer","South","Georgetown",291.74,79.0364,0
+"1139","Standard Class","Consumer","South","Greensboro",278.941,-31.1677,1.8
+"1140","Standard Class","Consumer","South","Greenville",2062.95,-541.7424,1.5
+"1141","Standard Class","Consumer","South","Gulfport",48.69,23.8581,0
+"1142","Standard Class","Consumer","South","Harrisonburg",23.08,6.924,0
+"1143","Standard Class","Consumer","South","Hattiesburg",1483.14,476.6014,0
+"1144","Standard Class","Consumer","South","Henderson",3651.1,1299.6819,0
+"1145","Standard Class","Consumer","South","Hendersonville",303.32,-34.4301,0.6
+"1146","Standard Class","Consumer","South","Hialeah",48.856,10.6015,0.6
+"1147","Standard Class","Consumer","South","Hickory",4.572,-3.81,0.7
+"1148","Standard Class","Consumer","South","Hollywood",364.592,26.5258,0.6
+"1149","Standard Class","Consumer","South","Homestead",47.328,14.872,0.4
+"1150","Standard Class","Consumer","South","Hot Springs",29.99,2.999,0
+"1151","Standard Class","Consumer","South","Huntsville",73.36,19.8072,0
+"1152","Standard Class","Consumer","South","Jackson",5412.306,642.9441,1.4
+"1153","Standard Class","Consumer","South","Jacksonville",10365.397,-722.4671,10.95
+"1154","Standard Class","Consumer","South","Johnson City",537.262,57.328,2.6
+"1155","Standard Class","Consumer","South","Jonesboro",2737.72,724.6889,0
+"1156","Standard Class","Consumer","South","Kissimmee",751.984,84.5982,0.2
+"1157","Standard Class","Consumer","South","Knoxville",492.312,29.8028,1.4
+"1158","Standard Class","Consumer","South","Lafayette",1230.35,455.7838,0
+"1159","Standard Class","Consumer","South","Lebanon",248.92,65.8075,0.4
+"1160","Standard Class","Consumer","South","Little Rock",1103.3,331.3346,0
+"1161","Standard Class","Consumer","South","Louisville",1346.14,355.4954,0
+"1162","Standard Class","Consumer","South","Macon",149.56,56.1248,0
+"1163","Standard Class","Consumer","South","Margate",15.552,2.3328,0.2
+"1164","Standard Class","Consumer","South","Marietta",5.64,2.7072,0
+"1165","Standard Class","Consumer","South","Memphis",3728.864,-1301.1914,3.8
+"1166","Standard Class","Consumer","South","Miami",2757.97,-261.4356,7.4
+"1167","Standard Class","Consumer","South","Miramar",559.2,55.016,0.4
+"1168","Standard Class","Consumer","South","Mobile",2217.62,616.3564,0
+"1169","Standard Class","Consumer","South","Monroe",1743.672,367.0524,0.8
+"1170","Standard Class","Consumer","South","Montgomery",14.67,3.9609,0
+"1171","Standard Class","Consumer","South","Murray",72.8,19.656,0
+"1172","Standard Class","Consumer","South","Nashville",2720.457,-1126.9346,4.1
+"1173","Standard Class","Consumer","South","Newport News",2271.99,961.9577,0
+"1174","Standard Class","Consumer","South","North Miami",14.496,4.8924,0.2
+"1175","Standard Class","Consumer","South","Orlando",1138.646,335.0916,1.7
+"1176","Standard Class","Consumer","South","Ormond Beach",2.808,-1.9656,0.7
+"1177","Standard Class","Consumer","South","Owensboro",45.68,21.0128,0
+"1178","Standard Class","Consumer","South","Palm Coast",24.448,8.8624,0.2
+"1179","Standard Class","Consumer","South","Pembroke Pines",1714.3755,-72.4491,4.55
+"1180","Standard Class","Consumer","South","Port Saint Lucie",2.694,-2.245,0.7
+"1181","Standard Class","Consumer","South","Raleigh",463.468,39.1212,1.9
+"1182","Standard Class","Consumer","South","Richmond",2794.05,860.345,0
+"1183","Standard Class","Consumer","South","Rogers",40.41,18.5886,0
+"1184","Standard Class","Consumer","South","Roswell",1654.6,469.553,0
+"1185","Standard Class","Consumer","South","Saint Petersburg",216.384,2.416,1.1
+"1186","Standard Class","Consumer","South","Salem",1036.14,230.9156,0
+"1187","Standard Class","Consumer","South","Smyrna",61.162,23.0622,0.2
+"1188","Standard Class","Consumer","South","Southaven",616.14,76.1052,0
+"1189","Standard Class","Consumer","South","Springfield",667.07,185.1957,0
+"1190","Standard Class","Consumer","South","Tallahassee",740.49,73.874,1.1
+"1191","Standard Class","Consumer","South","Tampa",538.764,33.4562,3.3
+"1192","Standard Class","Consumer","South","Thomasville",151.292,33.3939,1.1
+"1193","Standard Class","Consumer","South","Virginia Beach",713.95,222.4147,0
+"1194","Standard Class","Consumer","South","Warner Robins",41.86,10.465,0
+"1195","Standard Class","Consumer","South","West Palm Beach",128.208,29.4772,0.4
+"1196","Standard Class","Consumer","South","Wilmington",343.576,44.538,0.6
+"1197","Standard Class","Consumer","South","Wilson",169.544,15.4792,0.9
+"1198","Standard Class","Consumer","West","Albuquerque",122.53,36.2185,0
+"1199","Standard Class","Consumer","West","Anaheim",1526.906,131.0154,0.4
+"1200","Standard Class","Consumer","West","Apple Valley",563.92,7.049,0.2
+"1201","Standard Class","Consumer","West","Aurora",537.476,-53.8608,3.1
+"1202","Standard Class","Consumer","West","Avondale",150.232,-13.0146,0.4
+"1203","Standard Class","Consumer","West","Bakersfield",812.952,102.9466,0.4
+"1204","Standard Class","Consumer","West","Bellevue",72.992,27.9186,0.4
+"1205","Standard Class","Consumer","West","Brentwood",488.668,115.5524,0.2
+"1206","Standard Class","Consumer","West","Broomfield",725.072,53.891,1.8
+"1207","Standard Class","Consumer","West","Bullhead City",22.288,6.7232,0.4
+"1208","Standard Class","Consumer","West","Camarillo",14.73,7.2177,0
+"1209","Standard Class","Consumer","West","Carlsbad",39.176,16.7155,0.2
+"1210","Standard Class","Consumer","West","Chandler",18.24,2.536,0.4
+"1211","Standard Class","Consumer","West","Chula Vista",182.94,85.9818,0
+"1212","Standard Class","Consumer","West","Citrus Heights",129.39,54.3438,0
+"1213","Standard Class","Consumer","West","Clovis",111.42,11.6352,0.2
+"1214","Standard Class","Consumer","West","Colorado Springs",1334.136,-1117.5781,3.5
+"1215","Standard Class","Consumer","West","Concord",172.878,-19.963,0.2
+"1216","Standard Class","Consumer","West","Costa Mesa",1219.96,257.9806,0.6
+"1217","Standard Class","Consumer","West","Davis",32.4,15.552,0
+"1218","Standard Class","Consumer","West","Denver",5955.783,200.7122,3.9
+"1219","Standard Class","Consumer","West","Des Moines",999.98,449.991,0
+"1220","Standard Class","Consumer","West","Dublin",22,1.375,0.2
+"1221","Standard Class","Consumer","West","Edmonds",231.3,92.1042,0.4
+"1222","Standard Class","Consumer","West","Englewood",124.056,13.7547,0.4
+"1223","Standard Class","Consumer","West","Farmington",545.85,114.6285,0
+"1224","Standard Class","Consumer","West","Fort Collins",228.572,-240.1842,0.9
+"1225","Standard Class","Consumer","West","Fresno",54.84,3.6682,0
+"1226","Standard Class","Consumer","West","Gilbert",496.896,-41.9724,0.8
+"1227","Standard Class","Consumer","West","Glendale",440.323,-61.6319,2.6
+"1228","Standard Class","Consumer","West","Great Falls",410.104,124.9458,0.2
+"1229","Standard Class","Consumer","West","Gresham",1730.256,125.6664,1.3
+"1230","Standard Class","Consumer","West","Huntington Beach",95.92,25.8984,0
+"1231","Standard Class","Consumer","West","Inglewood",273.926,41.7843,0.2
+"1232","Standard Class","Consumer","West","Kent",1259.838,584.7681,0.4
+"1233","Standard Class","Consumer","West","Lake Elsinore",283.92,17.745,0.2
+"1234","Standard Class","Consumer","West","Lakewood",299.479,39.517,0.15
+"1235","Standard Class","Consumer","West","Lancaster",348.928,34.8928,0.2
+"1236","Standard Class","Consumer","West","Las Cruces",41.37,17.3754,0
+"1237","Standard Class","Consumer","West","Las Vegas",1489.988,192.0687,0.8
+"1238","Standard Class","Consumer","West","Lewiston",9.584,3.3544,0.2
+"1239","Standard Class","Consumer","West","Lodi",97.3,28.217,0
+"1240","Standard Class","Consumer","West","Logan",280.276,46.9632,0.4
+"1241","Standard Class","Consumer","West","Long Beach",1892.594,293.898,1.4
+"1242","Standard Class","Consumer","West","Los Angeles",60104.8165,9394.8031,18.35
+"1243","Standard Class","Consumer","West","Louisville",514.792,47.1813,1
+"1244","Standard Class","Consumer","West","Loveland",3.024,-0.6048,0.2
+"1245","Standard Class","Consumer","West","Marysville",102.18,3.315,0
+"1246","Standard Class","Consumer","West","Medford",80.456,26.5343,0.6
+"1247","Standard Class","Consumer","West","Mesa",267.766,61.6028,2.2
+"1248","Standard Class","Consumer","West","Mission Viejo",128.67,49.1409,0
+"1249","Standard Class","Consumer","West","Missoula",487.984,152.495,0.2
+"1250","Standard Class","Consumer","West","Modesto",273.358,15.3237,0.2
+"1251","Standard Class","Consumer","West","Moreno Valley",884.68,213.1624,0
+"1252","Standard Class","Consumer","West","Morgan Hill",545.01,7.846,0.35
+"1253","Standard Class","Consumer","West","Murrieta",484.65,92.0835,0
+"1254","Standard Class","Consumer","West","North Las Vegas",3238.586,359.332,0.4
+"1255","Standard Class","Consumer","West","Oakland",1449.334,297.4926,0.4
+"1256","Standard Class","Consumer","West","Oceanside",60.08,26.9536,0
+"1257","Standard Class","Consumer","West","Ontario",283.92,-46.137,0.2
+"1258","Standard Class","Consumer","West","Orem",2849.28,468.9951,0
+"1259","Standard Class","Consumer","West","Oxnard",127.95,21.7515,0
+"1260","Standard Class","Consumer","West","Parker",193.634,-197.232,1.1
+"1261","Standard Class","Consumer","West","Pasadena",1944.196,230.433,0.4
+"1262","Standard Class","Consumer","West","Pasco",2201.112,357.5244,0.4
+"1263","Standard Class","Consumer","West","Peoria",329.44,-23.0076,0.8
+"1264","Standard Class","Consumer","West","Phoenix",6210.284,-958.6822,9
+"1265","Standard Class","Consumer","West","Pomona",910.792,-27.7534,0.2
+"1266","Standard Class","Consumer","West","Portland",1688.726,30.5769,3
+"1267","Standard Class","Consumer","West","Provo",912.75,118.6575,0
+"1268","Standard Class","Consumer","West","Pueblo",845.728,84.5728,0.2
+"1269","Standard Class","Consumer","West","Rancho Cucamonga",73.152,29.8008,0.2
+"1270","Standard Class","Consumer","West","Redding",333.576,25.0182,0.2
+"1271","Standard Class","Consumer","West","Redlands",189.99,53.1981,0
+"1272","Standard Class","Consumer","West","Redmond",820.638,19.5976,1.9
+"1273","Standard Class","Consumer","West","Redondo Beach",7.64,3.7436,0
+"1274","Standard Class","Consumer","West","Renton",1242.632,185.4324,0.4
+"1275","Standard Class","Consumer","West","Rio Rancho",1114.192,119.5878,0.4
+"1276","Standard Class","Consumer","West","Riverside",32.76,14.478,0
+"1277","Standard Class","Consumer","West","Roseville",300.926,114.1064,0.2
+"1278","Standard Class","Consumer","West","Sacramento",41.99,11.3383,0
+"1279","Standard Class","Consumer","West","Salem",403.741,-7.7414,3.6
+"1280","Standard Class","Consumer","West","Salt Lake City",122.16,46.5672,0.2
+"1281","Standard Class","Consumer","West","San Bernardino",868.772,31.2972,0.75
+"1282","Standard Class","Consumer","West","San Clemente",90.058,42.5419,0.2
+"1283","Standard Class","Consumer","West","San Diego",19251.066,2779.0264,5.05
+"1284","Standard Class","Consumer","West","San Francisco",29318.984,5409.8024,9.5
+"1285","Standard Class","Consumer","West","San Jose",3877.159,639.9052,0.95
+"1286","Standard Class","Consumer","West","San Luis Obispo",3.62,1.1946,0
+"1287","Standard Class","Consumer","West","Santa Ana",1562.208,188.3723,0.6
+"1288","Standard Class","Consumer","West","Santa Barbara",356.79,99.9012,0
+"1289","Standard Class","Consumer","West","Santa Fe",92.52,18.504,0
+"1290","Standard Class","Consumer","West","Scottsdale",23.472,8.802,0.2
+"1291","Standard Class","Consumer","West","Seattle",28574.698,6420.2211,8.6
+"1292","Standard Class","Consumer","West","Sierra Vista",14.368,3.9512,0.2
+"1293","Standard Class","Consumer","West","Spokane",70.98,20.5842,0
+"1294","Standard Class","Consumer","West","Springfield",1056.635,-504.3674,4.4
+"1295","Standard Class","Consumer","West","Stockton",159.88,73.5448,0
+"1296","Standard Class","Consumer","West","Tempe",327.04,-31.113,0.6
+"1297","Standard Class","Consumer","West","Thornton",10.944,0.9576,0.2
+"1298","Standard Class","Consumer","West","Tigard",1122.968,-249.494,0.6
+"1299","Standard Class","Consumer","West","Tucson",2366.776,241.5138,2.7
+"1300","Standard Class","Consumer","West","Vallejo",110.098,37.8771,0.2
+"1301","Standard Class","Consumer","West","Visalia",310.86,84.563,0
+"1302","Standard Class","Consumer","West","West Jordan",256.35,92.6823,0.2
+"1303","Standard Class","Consumer","West","Westminster",3551.518,688.343,1.2
+"1304","Standard Class","Consumer","West","Whittier",444.768,44.4768,0.2
+"1305","Standard Class","Consumer","West","Woodland",239.984,23.9984,0.2
+"1306","Standard Class","Corporate","Central","Amarillo",205.3328,-36.2352,0.32
+"1307","Standard Class","Corporate","Central","Arlington",1513.223,-130.8197,4.3
+"1308","Standard Class","Corporate","Central","Aurora",719.095,-473.2698,1
+"1309","Standard Class","Corporate","Central","Austin",3145.438,-308.6771,4.4
+"1310","Standard Class","Corporate","Central","Baytown",10.368,3.6288,0.2
+"1311","Standard Class","Corporate","Central","Broken Arrow",1604.73,355.773,0
+"1312","Standard Class","Corporate","Central","Bryan",550.816,-179.2486,1.1
+"1313","Standard Class","Corporate","Central","Carrollton",109.654,24.3794,1.2
+"1314","Standard Class","Corporate","Central","Cedar Hill",115.296,40.3536,0.2
+"1315","Standard Class","Corporate","Central","Chicago",9240.438,-2582.9327,20.6
+"1316","Standard Class","Corporate","Central","Columbia",77.21,27.7354,0
+"1317","Standard Class","Corporate","Central","Columbus",3325.2,1257.8743,0
+"1318","Standard Class","Corporate","Central","Corpus Christi",114.784,-47.3384,1.4
+"1319","Standard Class","Corporate","Central","Dallas",5257.8242,-1507.9059,14.92
+"1320","Standard Class","Corporate","Central","Dearborn",1603.31,467.3864,0.1
+"1321","Standard Class","Corporate","Central","Decatur",193.266,-317.0295,1
+"1322","Standard Class","Corporate","Central","Des Moines",340.22,105.9391,0
+"1323","Standard Class","Corporate","Central","Detroit",7467.914,1648.9183,0.2
+"1324","Standard Class","Corporate","Central","Eau Claire",32.56,8.4656,0
+"1325","Standard Class","Corporate","Central","El Paso",49.568,17.9684,0.2
+"1326","Standard Class","Corporate","Central","Fort Worth",1739.9904,-303.3718,5.04
+"1327","Standard Class","Corporate","Central","Franklin",4722.68,1276.1765,0
+"1328","Standard Class","Corporate","Central","Freeport",45.248,3.9592,0.2
+"1329","Standard Class","Corporate","Central","Fremont",133.7,46.62,0
+"1330","Standard Class","Corporate","Central","Garden City",257.98,74.8142,0
+"1331","Standard Class","Corporate","Central","Grand Prairie",95.32,-19.5346,1
+"1332","Standard Class","Corporate","Central","Grand Rapids",234.55,112.3355,0
+"1333","Standard Class","Corporate","Central","Grapevine",41.528,8.7749,0.4
+"1334","Standard Class","Corporate","Central","Green Bay",58.42,22.1604,0
+"1335","Standard Class","Corporate","Central","Haltom City",6.608,2.1476,0.2
+"1336","Standard Class","Corporate","Central","Highland Park",577.122,4.4664,0.5
+"1337","Standard Class","Corporate","Central","Houston",9684.2604,-316.5374,18.64
+"1338","Standard Class","Corporate","Central","Huntsville",3658.3988,-177.0088,2.62
+"1339","Standard Class","Corporate","Central","Indianapolis",125.93,35.2604,0
+"1340","Standard Class","Corporate","Central","Irving",15.936,5.1792,0.2
+"1341","Standard Class","Corporate","Central","Jackson",3476.004,907.1209,0.1
+"1342","Standard Class","Corporate","Central","Kenosha",974.9,287.3705,0
+"1343","Standard Class","Corporate","Central","La Crosse",773.59,243.6661,0
+"1344","Standard Class","Corporate","Central","Lafayette",18358.14,8768.5951,0
+"1345","Standard Class","Corporate","Central","Lincoln Park",220.31,38.6283,0
+"1346","Standard Class","Corporate","Central","Maple Grove",735.98,331.191,0
+"1347","Standard Class","Corporate","Central","Marion",115.84,54.4448,0
+"1348","Standard Class","Corporate","Central","Mcallen",17.798,-13.2785,1.8
+"1349","Standard Class","Corporate","Central","Mesquite",51.272,-86.2184,1.8
+"1350","Standard Class","Corporate","Central","Milwaukee",2800.93,767.8633,0
+"1351","Standard Class","Corporate","Central","Minneapolis",18.84,6.0288,0
+"1352","Standard Class","Corporate","Central","Missouri City",6.37,-9.555,0.8
+"1353","Standard Class","Corporate","Central","Naperville",147.168,16.5564,0.2
+"1354","Standard Class","Corporate","Central","Noblesville",2678.94,241.1046,0
+"1355","Standard Class","Corporate","Central","Norman",63.88,24.9132,0
+"1356","Standard Class","Corporate","Central","Oak Park",591.052,152.0428,0.2
+"1357","Standard Class","Corporate","Central","Odessa",29.794,-19.1604,1
+"1358","Standard Class","Corporate","Central","Oklahoma City",94.95,37.2597,0
+"1359","Standard Class","Corporate","Central","Omaha",89.97,18.8937,0
+"1360","Standard Class","Corporate","Central","Overland Park",419.96,118.2238,0
+"1361","Standard Class","Corporate","Central","Pasadena",1.624,-4.466,0.8
+"1362","Standard Class","Corporate","Central","Pearland",24.62,-13.5042,1
+"1363","Standard Class","Corporate","Central","Peoria",125.98,-9.7236,2.3
+"1364","Standard Class","Corporate","Central","Plano",9.856,3.4496,0.2
+"1365","Standard Class","Corporate","Central","Port Arthur",5.184,1.8144,0.2
+"1366","Standard Class","Corporate","Central","Richmond",146.65,58.7896,0
+"1367","Standard Class","Corporate","Central","Rochester",43,20.2716,0
+"1368","Standard Class","Corporate","Central","Rockford",38.016,13.7808,0.2
+"1369","Standard Class","Corporate","Central","Roseville",118.92,54.7032,0
+"1370","Standard Class","Corporate","Central","Saint Charles",10.56,4.752,0
+"1371","Standard Class","Corporate","Central","Saint Cloud",1331.82,469.614,0
+"1372","Standard Class","Corporate","Central","Saint Louis",52.59,15.777,0
+"1373","Standard Class","Corporate","Central","Saint Paul",77.88,22.5852,0
+"1374","Standard Class","Corporate","Central","San Angelo",305.312,-8.7232,0.3
+"1375","Standard Class","Corporate","Central","San Antonio",2127.746,-2.23599999999999,6
+"1376","Standard Class","Corporate","Central","Sioux Falls",1117.19,333.9218,0
+"1377","Standard Class","Corporate","Central","Skokie",12.624,3.945,0.2
+"1378","Standard Class","Corporate","Central","Springfield",5714.82,2637.6384,0
+"1379","Standard Class","Corporate","Central","Taylor",9.84,2.8536,0
+"1380","Standard Class","Corporate","Central","Tulsa",736.26,100.7796,0
+"1381","Standard Class","Corporate","Central","Woodbury",607.65,196.0962,0
+"1382","Standard Class","Corporate","Central","Woodstock",845.488,-12.0784,0.3
+"1383","Standard Class","Corporate","East","Akron",1736.816,-66.045,1.6
+"1384","Standard Class","Corporate","East","Auburn",538.02,78.0183,0
+"1385","Standard Class","Corporate","East","Baltimore",1577.6,474.3659,0
+"1386","Standard Class","Corporate","East","Bangor",1164.45,422.2204,0
+"1387","Standard Class","Corporate","East","Belleville",1263.67,98.2864,0
+"1388","Standard Class","Corporate","East","Beverly",2583.19,654.9194,0
+"1389","Standard Class","Corporate","East","Bowling Green",1126.294,78.646,0.8
+"1390","Standard Class","Corporate","East","Bridgeton",52.41,3.4416,0
+"1391","Standard Class","Corporate","East","Bristol",455.23,100.9964,0.3
+"1392","Standard Class","Corporate","East","Buffalo",1722.538,209.162,0.1
+"1393","Standard Class","Corporate","East","Burlington",6282.24,1533.2273,0
+"1394","Standard Class","Corporate","East","Cincinnati",125.744,25.3724,0.6
+"1395","Standard Class","Corporate","East","Cleveland",144.904,-55.7642,0.9
+"1396","Standard Class","Corporate","East","Clinton",2966.86,666.492,0
+"1397","Standard Class","Corporate","East","Columbia",122.34,47.3484,0
+"1398","Standard Class","Corporate","East","Columbus",1169.554,-194.8122,5.9
+"1399","Standard Class","Corporate","East","Cuyahoga Falls",8.352,1.2528,0.2
+"1400","Standard Class","Corporate","East","Dover",195.86,73.7388,0
+"1401","Standard Class","Corporate","East","Dublin",9.096,1.7055,0.2
+"1402","Standard Class","Corporate","East","Fairfield",1602.476,184.4419,0.4
+"1403","Standard Class","Corporate","East","Franklin",1617.944,-235.6468,0.3
+"1404","Standard Class","Corporate","East","Gaithersburg",405.92,105.541,0
+"1405","Standard Class","Corporate","East","Hackensack",1456.16,451.2547,0
+"1406","Standard Class","Corporate","East","Hempstead",1671.08,482.662,0.6
+"1407","Standard Class","Corporate","East","Jamestown",159.98,57.5928,0
+"1408","Standard Class","Corporate","East","Kent",103.968,16.8948,0.2
+"1409","Standard Class","Corporate","East","Lakewood",11501.034,2607.4816,1.4
+"1410","Standard Class","Corporate","East","Lancaster",775.401,-98.1529,3.5
+"1411","Standard Class","Corporate","East","Laurel",152.59,46.1733,0
+"1412","Standard Class","Corporate","East","Lawrence",811.35,309.2565,0
+"1413","Standard Class","Corporate","East","Leominster",191.62,67.7656,0
+"1414","Standard Class","Corporate","East","Linden",115.36,49.6048,0
+"1415","Standard Class","Corporate","East","Lindenhurst",55.48,26.6304,0
+"1416","Standard Class","Corporate","East","Long Beach",1321.916,-221.0713,0.8
+"1417","Standard Class","Corporate","East","Lowell",69.93,32.1678,0
+"1418","Standard Class","Corporate","East","Marion",1620.03,-464.3862,0.8
+"1419","Standard Class","Corporate","East","Medina",1816.696,-1196.0596,2
+"1420","Standard Class","Corporate","East","Middletown",208.85,51.3905,0
+"1421","Standard Class","Corporate","East","Morristown",1868.43,863.2721,0
+"1422","Standard Class","Corporate","East","Mount Vernon",1982.462,598.0447,0.2
+"1423","Standard Class","Corporate","East","Nashua",21.12,6.5472,0
+"1424","Standard Class","Corporate","East","New Bedford",212.79,42.8367,0
+"1425","Standard Class","Corporate","East","New York City",39658.508,7311.3443,10.5
+"1426","Standard Class","Corporate","East","Newark",5479.492,1375.162,0.8
+"1427","Standard Class","Corporate","East","Oceanside",405.3,110.9779,0
+"1428","Standard Class","Corporate","East","Orange",76.12,22.0748,0
+"1429","Standard Class","Corporate","East","Perth Amboy",815.12,352.7596,0
+"1430","Standard Class","Corporate","East","Philadelphia",16473.239,-2811.8767,38.6
+"1431","Standard Class","Corporate","East","Plainfield",883.32,185.9784,0
+"1432","Standard Class","Corporate","East","Providence",612.86,-20.9434,0.3
+"1433","Standard Class","Corporate","East","Reading",15.008,1.5008,0.2
+"1434","Standard Class","Corporate","East","Revere",775.94,230.5654,0
+"1435","Standard Class","Corporate","East","Rochester",571.18,-144.6581,0.6
+"1436","Standard Class","Corporate","East","Rome",90.882,15.147,0.1
+"1437","Standard Class","Corporate","East","Springfield",1533.214,134.7639,1.4
+"1438","Standard Class","Corporate","East","Toledo",1039.438,-217.6676,4.4
+"1439","Standard Class","Corporate","East","Troy",23.976,-15.5844,0.4
+"1440","Standard Class","Corporate","East","Utica",40.48,14.5728,0
+"1441","Standard Class","Corporate","East","Vineland",250.55,35.8612,0
+"1442","Standard Class","Corporate","East","Waterbury",584.77,159.6767,0
+"1443","Standard Class","Corporate","East","Watertown",35.91,9.6957,0
+"1444","Standard Class","Corporate","East","Westfield",161.49,23.4078,0
+"1445","Standard Class","Corporate","East","Wilmington",1271.42,353.6124,0
+"1446","Standard Class","Corporate","East","Woonsocket",51.45,13.8915,0
+"1447","Standard Class","Corporate","East","York",817.978,-102.1692,2.1
+"1448","Standard Class","Corporate","South","Alexandria",192.22,69.1992,0
+"1449","Standard Class","Corporate","South","Apopka",29.97,-23.7792,1.4
+"1450","Standard Class","Corporate","South","Arlington",138.53,39.6192,0
+"1451","Standard Class","Corporate","South","Asheville",16.272,-3.8646,0.2
+"1452","Standard Class","Corporate","South","Athens",286.09,84.4434,0
+"1453","Standard Class","Corporate","South","Atlanta",25.23,9.423,0
+"1454","Standard Class","Corporate","South","Bossier City",129.92,10.3936,0
+"1455","Standard Class","Corporate","South","Bowling Green",140.81,39.4268,0
+"1456","Standard Class","Corporate","South","Bristol",369.042,-134.9654,2.3
+"1457","Standard Class","Corporate","South","Cary",438.592,46.2204,0.8
+"1458","Standard Class","Corporate","South","Chapel Hill",14.016,4.7304,0.2
+"1459","Standard Class","Corporate","South","Charlotte",2278.904,309.5106,3.1
+"1460","Standard Class","Corporate","South","Chattanooga",140.324,-24.1208,0.9
+"1461","Standard Class","Corporate","South","Chesapeake",125.64,47.3544,0
+"1462","Standard Class","Corporate","South","Columbia",2912.516,-638.8503,0.8
+"1463","Standard Class","Corporate","South","Columbus",3813.13,1318.623,0
+"1464","Standard Class","Corporate","South","Coral Gables",64.248,22.3578,0.4
+"1465","Standard Class","Corporate","South","Coral Springs",6.992,0.5244,0.2
+"1466","Standard Class","Corporate","South","Decatur",2714.13,858.4043,0
+"1467","Standard Class","Corporate","South","Deltona",581.104,68.3612,0.9
+"1468","Standard Class","Corporate","South","Durham",231.32,68.6911,0.6
+"1469","Standard Class","Corporate","South","East Point",268.4,102.0138,0
+"1470","Standard Class","Corporate","South","Fayetteville",525.996,88.9798,0.6
+"1471","Standard Class","Corporate","South","Florence",738.54,45.5004,0
+"1472","Standard Class","Corporate","South","Fort Lauderdale",519.68,58.464,0.2
+"1473","Standard Class","Corporate","South","Franklin",55.936,12.0076,0.4
+"1474","Standard Class","Corporate","South","Greensboro",179.435,-26.8204,2.2
+"1475","Standard Class","Corporate","South","Greenville",17.616,-14.0928,0.7
+"1476","Standard Class","Corporate","South","Hampton",1417.35,575.9101,0
+"1477","Standard Class","Corporate","South","Hattiesburg",239.7,105.468,0
+"1478","Standard Class","Corporate","South","Henderson",828.84,0,0
+"1479","Standard Class","Corporate","South","Hialeah",45.584,5.1282,0.2
+"1480","Standard Class","Corporate","South","Hollywood",9.216,3.3408,0.2
+"1481","Standard Class","Corporate","South","Huntsville",242.77,77.4102,0
+"1482","Standard Class","Corporate","South","Jackson",858.432,250.9773,0.2
+"1483","Standard Class","Corporate","South","Jacksonville",3246.919,-587.361,8.5
+"1484","Standard Class","Corporate","South","Knoxville",4.368,0.3822,0.2
+"1485","Standard Class","Corporate","South","Lafayette",364.93,67.975,0
+"1486","Standard Class","Corporate","South","Lakeland",562.2925,-255.5875,0.45
+"1487","Standard Class","Corporate","South","Little Rock",484.79,187.7404,0
+"1488","Standard Class","Corporate","South","Melbourne",95.616,9.5616,0.2
+"1489","Standard Class","Corporate","South","Memphis",852.233,119.2778,2.1
+"1490","Standard Class","Corporate","South","Miami",2198.74,-988.4407,3.5
+"1491","Standard Class","Corporate","South","Monroe",323.928,59.2892,0.6
+"1492","Standard Class","Corporate","South","Montgomery",478.4,96.7906,0
+"1493","Standard Class","Corporate","South","Murfreesboro",306.989,9.487,3.3
+"1494","Standard Class","Corporate","South","Nashville",3062.678,273.9492,2.7
+"1495","Standard Class","Corporate","South","Newport News",788.86,122.9662,0
+"1496","Standard Class","Corporate","South","North Charleston",14.76,4.2804,0
+"1497","Standard Class","Corporate","South","Orlando",601.434,42.6337,1.5
+"1498","Standard Class","Corporate","South","Palm Coast",7.434,-5.6994,0.7
+"1499","Standard Class","Corporate","South","Plantation",838.484,-43.7079,2.8
+"1500","Standard Class","Corporate","South","Pompano Beach",90.44,15.0065,0.6
+"1501","Standard Class","Corporate","South","Raleigh",61.876,-6.3784,0.9
+"1502","Standard Class","Corporate","South","Richmond",1122.04,431.161,0
+"1503","Standard Class","Corporate","South","Roswell",2753.73,1283.6247,0
+"1504","Standard Class","Corporate","South","Saint Petersburg",1442.424,147.5673,2.5
+"1505","Standard Class","Corporate","South","Sandy Springs",21.19,7.9958,0
+"1506","Standard Class","Corporate","South","Smyrna",171.906,-41.3337,1.1
+"1507","Standard Class","Corporate","South","Springfield",9967.62,2761.8203,0
+"1508","Standard Class","Corporate","South","Tallahassee",521.431,12.2777,1.5
+"1509","Standard Class","Corporate","South","Tampa",602.019,-72.5939,1.5
+"1510","Standard Class","Corporate","South","Texarkana",605.34,145.2816,0
+"1511","Standard Class","Corporate","South","Virginia Beach",3522.54,1498.6747,0
+"1512","Standard Class","Corporate","South","Wilmington",39.072,9.768,0.2
+"1513","Standard Class","Corporate","South","Wilson",191.808,-24.4032,0.6
+"1514","Standard Class","Corporate","West","Albuquerque",702.052,137.383,0.2
+"1515","Standard Class","Corporate","West","Anaheim",596.42,166.1924,0
+"1516","Standard Class","Corporate","West","Aurora",891.834,-443.772,0.9
+"1517","Standard Class","Corporate","West","Bakersfield",36.16,14.3408,0.2
+"1518","Standard Class","Corporate","West","Bellevue",5.28,1.5312,0
+"1519","Standard Class","Corporate","West","Bellingham",1099.5,362.835,0
+"1520","Standard Class","Corporate","West","Boise",1004.5,184.1499,0.4
+"1521","Standard Class","Corporate","West","Brentwood",3397.732,902.0742,0.6
+"1522","Standard Class","Corporate","West","Broomfield",68.432,8.554,0.2
+"1523","Standard Class","Corporate","West","Caldwell",455.632,58.6966,0.2
+"1524","Standard Class","Corporate","West","Camarillo",1452.7875,151.5779,0.55
+"1525","Standard Class","Corporate","West","Carlsbad",151.884,35.1458,0.6
+"1526","Standard Class","Corporate","West","Chandler",73.915,-45.8273,0.5
+"1527","Standard Class","Corporate","West","Chico",753.112,-14.0445,0.6
+"1528","Standard Class","Corporate","West","Coachella",163.55,47.1736,0
+"1529","Standard Class","Corporate","West","Colorado Springs",108.218,17.5684,1.3
+"1530","Standard Class","Corporate","West","Denver",4426.168,-282.7146,4.3
+"1531","Standard Class","Corporate","West","Draper",111.93,34.6983,0
+"1532","Standard Class","Corporate","West","Edmonds",179.97,86.3856,0
+"1533","Standard Class","Corporate","West","El Cajon",387.136,4.8392,0.2
+"1534","Standard Class","Corporate","West","Everett",3.856,1.3978,0.2
+"1535","Standard Class","Corporate","West","Fairfield",34.624,10.9938,0.4
+"1536","Standard Class","Corporate","West","Fresno",794.99,283.1502,0.6
+"1537","Standard Class","Corporate","West","Gilbert",2792.496,322.347,1
+"1538","Standard Class","Corporate","West","Glendale",321.528,25.2618,0.8
+"1539","Standard Class","Corporate","West","Gresham",403.168,25.198,0.2
+"1540","Standard Class","Corporate","West","Hesperia",1213.1715,98.5269,0.55
+"1541","Standard Class","Corporate","West","Hillsboro",23.766,3.1527,0.9
+"1542","Standard Class","Corporate","West","Huntington Beach",19.16,8.4038,0
+"1543","Standard Class","Corporate","West","Las Vegas",31.08,8.3916,0
+"1544","Standard Class","Corporate","West","Lehi",16.776,1.6776,0.2
+"1545","Standard Class","Corporate","West","Lodi",39.68,16.2688,0
+"1546","Standard Class","Corporate","West","Long Beach",10.1,4.3738,0
+"1547","Standard Class","Corporate","West","Longmont",165.6,-6.21,0.2
+"1548","Standard Class","Corporate","West","Los Angeles",28099.896,5099.9862,8.35
+"1549","Standard Class","Corporate","West","Louisville",36.176,4.2652,0.4
+"1550","Standard Class","Corporate","West","Medford",9.762,-6.8334,0.7
+"1551","Standard Class","Corporate","West","Meridian",21.312,7.992,0.2
+"1552","Standard Class","Corporate","West","Mesa",1144.779,-127.7934,2.6
+"1553","Standard Class","Corporate","West","Montebello",27.88,3.9032,0
+"1554","Standard Class","Corporate","West","Moreno Valley",182.72,84.0512,0
+"1555","Standard Class","Corporate","West","Oakland",2390.776,374.5798,0.6
+"1556","Standard Class","Corporate","West","Orem",11.68,4.2048,0
+"1557","Standard Class","Corporate","West","Oxnard",131.48,37.2649,0.4
+"1558","Standard Class","Corporate","West","Parker",874.308,33.0427,2.5
+"1559","Standard Class","Corporate","West","Pasadena",370.128,83.4435,0.2
+"1560","Standard Class","Corporate","West","Phoenix",2060.347,-633.5483,4.9
+"1561","Standard Class","Corporate","West","Pomona",421.42,123.6446,0
+"1562","Standard Class","Corporate","West","Portland",378.08,69.4354,0.8
+"1563","Standard Class","Corporate","West","Rancho Cucamonga",5.76,2.6496,0
+"1564","Standard Class","Corporate","West","Redlands",14.28,6.7116,0
+"1565","Standard Class","Corporate","West","Redmond",177.225,-120.513,0.5
+"1566","Standard Class","Corporate","West","Redondo Beach",1840.043,120.8373,0.75
+"1567","Standard Class","Corporate","West","Redwood City",41.904,14.1426,0.2
+"1568","Standard Class","Corporate","West","Reno",163.408,55.5597,0.2
+"1569","Standard Class","Corporate","West","Riverside",147.44,41.1856,0
+"1570","Standard Class","Corporate","West","Roseville",423.05,198.865,0
+"1571","Standard Class","Corporate","West","Sacramento",6742.636,2012.9044,0.8
+"1572","Standard Class","Corporate","West","San Diego",7285.377,1002.9973,3.95
+"1573","Standard Class","Corporate","West","San Francisco",16771.322,2231.3362,6.55
+"1574","Standard Class","Corporate","West","San Jose",907.25,172.2728,0.95
+"1575","Standard Class","Corporate","West","Santa Clara",10.56,4.752,0
+"1576","Standard Class","Corporate","West","Scottsdale",419.664,133.9464,0.4
+"1577","Standard Class","Corporate","West","Seattle",22139.87,4628.1774,4.8
+"1578","Standard Class","Corporate","West","Sierra Vista",61.704,12.8769,0.4
+"1579","Standard Class","Corporate","West","Sparks",2396.4,179.73,0.2
+"1580","Standard Class","Corporate","West","Springfield",2772.081,-22.2764,3
+"1581","Standard Class","Corporate","West","Tempe",141.752,-4.9566,0.4
+"1582","Standard Class","Corporate","West","Thousand Oaks",175.37,79.5342,0
+"1583","Standard Class","Corporate","West","Tigard",65.07,19.0026,0.9
+"1584","Standard Class","Corporate","West","Torrance",3132.268,545.151,0.6
+"1585","Standard Class","Corporate","West","Tucson",1098.48,-153.5154,2.5
+"1586","Standard Class","Corporate","West","Twin Falls",1148.806,266.1649,0.2
+"1587","Standard Class","Corporate","West","Vancouver",9.64,3.6632,0
+"1588","Standard Class","Corporate","West","Yucaipa",50.8,13.208,0
+"1589","Standard Class","Home Office","Central","Arlington",11.646,-17.469,0.8
+"1590","Standard Class","Home Office","Central","Aurora",474.572,-104.305,2
+"1591","Standard Class","Home Office","Central","Austin",94.508,-19.1493,1.2
+"1592","Standard Class","Home Office","Central","Bedford",20.96,6.812,0.2
+"1593","Standard Class","Home Office","Central","Bloomington",308.6,107.7118,0
+"1594","Standard Class","Home Office","Central","Bolingbrook",9.98,-16.467,0.8
+"1595","Standard Class","Home Office","Central","Chicago",2945.934,-1614.3739,9.7
+"1596","Standard Class","Home Office","Central","Columbus",262.02,76.623,0
+"1597","Standard Class","Home Office","Central","Dallas",3514.357,-93.6698,9
+"1598","Standard Class","Home Office","Central","Danville",43.372,-69.3952,0.8
+"1599","Standard Class","Home Office","Central","Detroit",947.4,250.9684,0
+"1600","Standard Class","Home Office","Central","Dubuque",1423.34,401.126,0
+"1601","Standard Class","Home Office","Central","Eagan",74.94,34.1838,0
+"1602","Standard Class","Home Office","Central","Eau Claire",91.68,45.84,0
+"1603","Standard Class","Home Office","Central","El Paso",11.364,-4.5225,1
+"1604","Standard Class","Home Office","Central","Elmhurst",891.628,-212.1321,0.9
+"1605","Standard Class","Home Office","Central","Fargo",28.38,13.559,0
+"1606","Standard Class","Home Office","Central","Fort Worth",71.354,-127.674,1.6
+"1607","Standard Class","Home Office","Central","Franklin",47.97,14.8707,0
+"1608","Standard Class","Home Office","Central","Frisco",27.168,-1.3584,0.2
+"1609","Standard Class","Home Office","Central","Grand Prairie",23.68,8.88,0.2
+"1610","Standard Class","Home Office","Central","Highland Park",3.136,-4.704,0.8
+"1611","Standard Class","Home Office","Central","Holland",130.36,63.0588,0
+"1612","Standard Class","Home Office","Central","Houston",2613.654,-455.8357,10.94
+"1613","Standard Class","Home Office","Central","Independence",1577.94,757.4112,0
+"1614","Standard Class","Home Office","Central","Indianapolis",639.83,103.9546,0
+"1615","Standard Class","Home Office","Central","Jackson",5564.703,1840.0299,0.1
+"1616","Standard Class","Home Office","Central","Jefferson City",86.62,8.662,0
+"1617","Standard Class","Home Office","Central","Lafayette",526.45,31.587,0
+"1618","Standard Class","Home Office","Central","Lawrence",196.33,91.4608,0
+"1619","Standard Class","Home Office","Central","League City",554.166,-4.5604,0.9
+"1620","Standard Class","Home Office","Central","Lubbock",11.364,-17.046,0.8
+"1621","Standard Class","Home Office","Central","Manhattan",273.96,10.9584,0
+"1622","Standard Class","Home Office","Central","Marion",106.32,49.9704,0
+"1623","Standard Class","Home Office","Central","Mcallen",100.86,-183.1062,1
+"1624","Standard Class","Home Office","Central","Milwaukee",621.97,178.3151,0
+"1625","Standard Class","Home Office","Central","Minneapolis",692.94,173.235,0
+"1626","Standard Class","Home Office","Central","Moorhead",479.9,81.583,0
+"1627","Standard Class","Home Office","Central","Muskogee",19.67,5.311,0
+"1628","Standard Class","Home Office","Central","Naperville",288.06,-65.9901,1.2
+"1629","Standard Class","Home Office","Central","Normal",366.744,-110.0232,0.3
+"1630","Standard Class","Home Office","Central","Odessa",340.116,-9.7176,0.3
+"1631","Standard Class","Home Office","Central","Oklahoma City",2176.19,395.6327,0
+"1632","Standard Class","Home Office","Central","Olathe",895.79,207.4108,0
+"1633","Standard Class","Home Office","Central","Omaha",322.58,83.0776,0
+"1634","Standard Class","Home Office","Central","Orland Park",339.96,67.992,0.2
+"1635","Standard Class","Home Office","Central","Park Ridge",541.144,-287.0014,0.8
+"1636","Standard Class","Home Office","Central","Pasadena",1029.838,-326.0636,2.9
+"1637","Standard Class","Home Office","Central","Pharr",1416.304,-216.2264,1
+"1638","Standard Class","Home Office","Central","Richmond",3554.68,1070.3838,0
+"1639","Standard Class","Home Office","Central","Rockford",266.02,-37.0224,1.1
+"1640","Standard Class","Home Office","Central","Roseville",2165.12,644.3432,0
+"1641","Standard Class","Home Office","Central","Saginaw",19.76,8.2992,0
+"1642","Standard Class","Home Office","Central","Saint Charles",8.736,-4.8048,0.6
+"1643","Standard Class","Home Office","Central","Saint Peters",697.16,146.4036,0
+"1644","Standard Class","Home Office","Central","San Antonio",270.698,-18.51,1.3
+"1645","Standard Class","Home Office","Central","Sheboygan",79.74,34.3419,0
+"1646","Standard Class","Home Office","Central","Springfield",886.28,248.0276,0
+"1647","Standard Class","Home Office","Central","Sterling Heights",19,8.93,0
+"1648","Standard Class","Home Office","Central","Superior",1299.73,514.0822,0
+"1649","Standard Class","Home Office","Central","Trenton",1109.725,436.102,0.1
+"1650","Standard Class","Home Office","Central","Tulsa",832.04,260.7814,0
+"1651","Standard Class","Home Office","Central","Woodstock",2.912,0.91,0.2
+"1652","Standard Class","Home Office","East","Akron",5.742,-4.5936,0.7
+"1653","Standard Class","Home Office","East","Allentown",837.444,-230.1632,1.5
+"1654","Standard Class","Home Office","East","Baltimore",1379.32,396.9894,0
+"1655","Standard Class","Home Office","East","Burlington",1294.75,336.635,0
+"1656","Standard Class","Home Office","East","Cambridge",90.6,36.67,0
+"1657","Standard Class","Home Office","East","Chester",91.726,4.23,1
+"1658","Standard Class","Home Office","East","Cleveland",632.366,-54.6225,1.9
+"1659","Standard Class","Home Office","East","Clinton",453.92,130.8888,0
+"1660","Standard Class","Home Office","East","Columbia",432.14,191.4126,0
+"1661","Standard Class","Home Office","East","Columbus",1304.449,69.8208,3.9
+"1662","Standard Class","Home Office","East","Concord",1897.35,497.9681,0
+"1663","Standard Class","Home Office","East","Danbury",27.46,9.8856,0
+"1664","Standard Class","Home Office","East","Everett",1132.84,288.6394,0
+"1665","Standard Class","Home Office","East","Fairfield",916.59,260.5332,0
+"1666","Standard Class","Home Office","East","Franklin",1388.46,409.8546,0
+"1667","Standard Class","Home Office","East","Holyoke",301.96,60.392,0
+"1668","Standard Class","Home Office","East","Lakewood",578.384,143.0322,1.5
+"1669","Standard Class","Home Office","East","Lancaster",1222.446,-240.6057,1
+"1670","Standard Class","Home Office","East","Lawrence",2555.082,729.4441,0.3
+"1671","Standard Class","Home Office","East","Lewiston",106.08,32.2658,0
+"1672","Standard Class","Home Office","East","Lorain",141.906,30.5876,1.2
+"1673","Standard Class","Home Office","East","Malden",188.7,20.8524,0
+"1674","Standard Class","Home Office","East","Milford",199.75,87.89,0
+"1675","Standard Class","Home Office","East","New Brunswick",14.77,7.1567,0
+"1676","Standard Class","Home Office","East","New Rochelle",277.57,133.6953,0
+"1677","Standard Class","Home Office","East","New York City",21110.524,7577.3794,3.5
+"1678","Standard Class","Home Office","East","Newark",291.978,78.9591,0.2
+"1679","Standard Class","Home Office","East","Niagara Falls",34.992,11.4318,0.2
+"1680","Standard Class","Home Office","East","Norwich",22.2,9.102,0
+"1681","Standard Class","Home Office","East","Paterson",399.49,163.888,0
+"1682","Standard Class","Home Office","East","Perth Amboy",178.21,45.7104,0
+"1683","Standard Class","Home Office","East","Philadelphia",12879.772,-1708.4537,22.1
+"1684","Standard Class","Home Office","East","Plainfield",2639.99,635.6371,0
+"1685","Standard Class","Home Office","East","Providence",11177.4,4494.7218,0
+"1686","Standard Class","Home Office","East","Quincy",283.46,104.7472,0
+"1687","Standard Class","Home Office","East","Revere",57.32,28.2712,0
+"1688","Standard Class","Home Office","East","Rochester",190.086,54.7955,0.2
+"1689","Standard Class","Home Office","East","Rome",408.96,129.9066,0
+"1690","Standard Class","Home Office","East","Springfield",1250.818,-119.9734,3.3
+"1691","Standard Class","Home Office","East","Toledo",59.948,-14.1904,0.9
+"1692","Standard Class","Home Office","East","Troy",129.976,-97.7039,0.9
+"1693","Standard Class","Home Office","East","Waterbury",484.74,135.1433,0
+"1694","Standard Class","Home Office","East","Watertown",191.646,31.941,0.1
+"1695","Standard Class","Home Office","East","Westfield",358.23,129.768,0
+"1696","Standard Class","Home Office","East","Wheeling",536.48,262.8752,0
+"1697","Standard Class","Home Office","East","Wilmington",872.5,401.9111,0
+"1698","Standard Class","Home Office","East","Yonkers",52.44,24.1224,0
+"1699","Standard Class","Home Office","South","Alexandria",944.61,105.5586,0
+"1700","Standard Class","Home Office","South","Apopka",681.432,43.4442,0.9
+"1701","Standard Class","Home Office","South","Arlington",108.89,34.5786,0
+"1702","Standard Class","Home Office","South","Atlanta",1396.35,694.4142,0
+"1703","Standard Class","Home Office","South","Auburn",3.76,1.0904,0
+"1704","Standard Class","Home Office","South","Boynton Beach",32.088,10.4073,0.6
+"1705","Standard Class","Home Office","South","Burlington",1633.188,-1306.5504,0.7
+"1706","Standard Class","Home Office","South","Charlotte",1447.162,23.6113,2.8
+"1707","Standard Class","Home Office","South","Charlottesville",67.96,12.2328,0
+"1708","Standard Class","Home Office","South","Chesapeake",1139.92,284.98,0
+"1709","Standard Class","Home Office","South","Clarksville",513.496,-13.2408,0.8
+"1710","Standard Class","Home Office","South","Columbia",53.824,1.1112,0.9
+"1711","Standard Class","Home Office","South","Columbus",2795.99,577.8964,0
+"1712","Standard Class","Home Office","South","Deltona",17.856,2.0088,0.2
+"1713","Standard Class","Home Office","South","Durham",67.76,5.082,0.4
+"1714","Standard Class","Home Office","South","Fayetteville",48,20.0514,0.4
+"1715","Standard Class","Home Office","South","Florence",4.98,2.4402,0
+"1716","Standard Class","Home Office","South","Fort Lauderdale",1073.216,211.0512,1.7
+"1717","Standard Class","Home Office","South","Franklin",763.508,-65.819,1.5
+"1718","Standard Class","Home Office","South","Gastonia",895.06,-14.7436,1.3
+"1719","Standard Class","Home Office","South","Greenville",37.264,6.8468,0.4
+"1720","Standard Class","Home Office","South","Hampton",113.1,56.55,0
+"1721","Standard Class","Home Office","South","Harrisonburg",39.96,14.3856,0
+"1722","Standard Class","Home Office","South","Henderson",4402.46,1355.065,0
+"1723","Standard Class","Home Office","South","Hendersonville",16.218,-10.9566,1.4
+"1724","Standard Class","Home Office","South","Hialeah",392.832,16.158,0.6
+"1725","Standard Class","Home Office","South","Hollywood",399.53,26.978,0.9
+"1726","Standard Class","Home Office","South","Hot Springs",215.84,59.0848,0
+"1727","Standard Class","Home Office","South","Jackson",1035.26,451.1356,0
+"1728","Standard Class","Home Office","South","Jacksonville",24683.948,-1666.2211,3.2
+"1729","Standard Class","Home Office","South","Knoxville",4.608,1.6704,0.2
+"1730","Standard Class","Home Office","South","Lakeland",729.648,47.8878,0.4
+"1731","Standard Class","Home Office","South","Lebanon",239.976,17.9982,0.2
+"1732","Standard Class","Home Office","South","Louisville",1338.63,401.5726,0
+"1733","Standard Class","Home Office","South","Miami",469.44,76.5478,1.4
+"1734","Standard Class","Home Office","South","Miramar",419.136,-57.6312,0.2
+"1735","Standard Class","Home Office","South","Nashville",64.784,-12.9568,0.2
+"1736","Standard Class","Home Office","South","Richmond",1446.84,376.8408,0
+"1737","Standard Class","Home Office","South","Salem",273.59,124.4453,0
+"1738","Standard Class","Home Office","South","Sandy Springs",148.16,45.2831,0
+"1739","Standard Class","Home Office","South","Sanford",225.546,-11.8272,0.9
+"1740","Standard Class","Home Office","South","Smyrna",260.31,97.2226,0
+"1741","Standard Class","Home Office","South","Springdale",4.3,1.419,0
+"1742","Standard Class","Home Office","South","Springfield",227,58.9236,0
+"1743","Standard Class","Home Office","South","Suffolk",158.81,63.3456,0
+"1744","Standard Class","Home Office","South","Tallahassee",702.704,-24.1581,0.6
+"1745","Standard Class","Home Office","South","Tampa",2252.5885,-392.1051,4.3
+"1746","Standard Class","Home Office","South","Texarkana",48.9,18.093,0
+"1747","Standard Class","Home Office","South","Tuscaloosa",175.7,51.0104,0
+"1748","Standard Class","Home Office","South","Virginia Beach",177.8,75.7131,0
+"1749","Standard Class","Home Office","South","Waynesboro",334.2,106.5112,0
+"1750","Standard Class","Home Office","South","West Palm Beach",13.12,2.132,0.2
+"1751","Standard Class","Home Office","South","Wilson",7.38,-5.412,0.7
+"1752","Standard Class","Home Office","West","Albuquerque",302.376,22.6782,0.2
+"1753","Standard Class","Home Office","West","Auburn",4.18,1.5048,0
+"1754","Standard Class","Home Office","West","Aurora",596.472,-81.9534,1
+"1755","Standard Class","Home Office","West","Bakersfield",28.666,10.3363,0.4
+"1756","Standard Class","Home Office","West","Bellevue",25.35,7.605,0
+"1757","Standard Class","Home Office","West","Bozeman",43.66,20.8106,0
+"1758","Standard Class","Home Office","West","Burbank",3247.158,764.5338,0.2
+"1759","Standard Class","Home Office","West","Carlsbad",228.28,105.9048,0
+"1760","Standard Class","Home Office","West","Chandler",900.712,95.3938,0.6
+"1761","Standard Class","Home Office","West","Cheyenne",1603.136,100.196,0.2
+"1762","Standard Class","Home Office","West","Chula Vista",665.88,106.5408,0
+"1763","Standard Class","Home Office","West","Colorado Springs",1344.42,152.4156,1.1
+"1764","Standard Class","Home Office","West","Concord",499.552,142.4758,0.2
+"1765","Standard Class","Home Office","West","Covington",366.78,101.9774,0
+"1766","Standard Class","Home Office","West","Denver",29.472,9.9468,0.2
+"1767","Standard Class","Home Office","West","Des Moines",18.54,8.7138,0
+"1768","Standard Class","Home Office","West","El Cajon",478.48,47.848,0.2
+"1769","Standard Class","Home Office","West","Escondido",23.36,6.0736,0
+"1770","Standard Class","Home Office","West","Fresno",289.246,101.5376,0.15
+"1771","Standard Class","Home Office","West","Gilbert",882.99,-142.1216,1.5
+"1772","Standard Class","Home Office","West","Great Falls",4195.476,1457.7613,0.2
+"1773","Standard Class","Home Office","West","Helena",403.94,64.2482,0.2
+"1774","Standard Class","Home Office","West","La Mesa",367.53,114.387,0.2
+"1775","Standard Class","Home Office","West","Laguna Niguel",216.943,23.149,0.15
+"1776","Standard Class","Home Office","West","Lake Forest",1027.676,155.737,0.2
+"1777","Standard Class","Home Office","West","Lakewood",1190.004,-35.1186,0.6
+"1778","Standard Class","Home Office","West","Las Cruces",8.28,3.4776,0
+"1779","Standard Class","Home Office","West","Las Vegas",75.792,25.5798,0.2
+"1780","Standard Class","Home Office","West","Los Angeles",16495.668,3273.4041,5.6
+"1781","Standard Class","Home Office","West","Louisville",2613.309,-3424.3546,3
+"1782","Standard Class","Home Office","West","Manteca",314.55,150.984,0
+"1783","Standard Class","Home Office","West","Meridian",307.74,87.222,0
+"1784","Standard Class","Home Office","West","Mesa",44.784,16.2342,0.2
+"1785","Standard Class","Home Office","West","Moreno Valley",107.346,34.3677,0.2
+"1786","Standard Class","Home Office","West","Oakland",34.58,10.0282,0
+"1787","Standard Class","Home Office","West","Oceanside",12.9,6.321,0
+"1788","Standard Class","Home Office","West","Orem",133.128,41.4336,0.2
+"1789","Standard Class","Home Office","West","Pasadena",739.736,71.974,0.2
+"1790","Standard Class","Home Office","West","Peoria",101.004,15.6262,1.8
+"1791","Standard Class","Home Office","West","Phoenix",1806.171,-853.518,2.4
+"1792","Standard Class","Home Office","West","Portland",5.682,-3.788,0.7
+"1793","Standard Class","Home Office","West","Provo",44.4,12.432,0
+"1794","Standard Class","Home Office","West","Redmond",12.32,5.9136,0
+"1795","Standard Class","Home Office","West","Reno",4.71,0,0
+"1796","Standard Class","Home Office","West","Riverside",51.184,19.194,0.2
+"1797","Standard Class","Home Office","West","Roseville",2.48,1.1656,0
+"1798","Standard Class","Home Office","West","Sacramento",70.82,22.2632,0
+"1799","Standard Class","Home Office","West","Salem",6.208,0.6984,0.2
+"1800","Standard Class","Home Office","West","Salt Lake City",219.12,95.8439,0.2
+"1801","Standard Class","Home Office","West","San Bernardino",110.528,38.6848,0.2
+"1802","Standard Class","Home Office","West","San Diego",3776.578,521.1738,0.8
+"1803","Standard Class","Home Office","West","San Francisco",3712.811,1072.4316,2.75
+"1804","Standard Class","Home Office","West","San Gabriel",2061.01,290.8953,0.2
+"1805","Standard Class","Home Office","West","San Jose",29.12,9.828,0.2
+"1806","Standard Class","Home Office","West","Santa Ana",20.16,9.8784,0
+"1807","Standard Class","Home Office","West","Santa Barbara",3530.298,392.4106,0.4
+"1808","Standard Class","Home Office","West","Santa Fe",8.4,2.184,0
+"1809","Standard Class","Home Office","West","Seattle",9672.894,1475.9509,3.4
+"1810","Standard Class","Home Office","West","Sparks",86.2,24.998,0
+"1811","Standard Class","Home Office","West","Spokane",136.26,5.4504,0
+"1812","Standard Class","Home Office","West","Springfield",739.051,-270.6932,1.3
+"1813","Standard Class","Home Office","West","Stockton",629.64,107.0388,0
+"1814","Standard Class","Home Office","West","Thousand Oaks",32.75,15.065,0
+"1815","Standard Class","Home Office","West","Tigard",205.744,14.2053,0.6
+"1816","Standard Class","Home Office","West","Tucson",100.922,8.3768,0.9
+"1817","Standard Class","Home Office","West","Vallejo",1064.624,277.8048,0.2
+"1818","Standard Class","Home Office","West","Vancouver",44.02,11.4452,0
+"1819","Standard Class","Home Office","West","Yuma",599.985,-479.988,0.7
